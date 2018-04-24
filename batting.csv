@@ -1,0 +1,626 @@
+name,team,1Bprob,2Bprob,3Bprob,HRprob,BA
+"Jose Abreu","Chicago White Sox",0.6831,0.1749,0.0055,0.1366,0.2933
+"Dustin Ackley","New York Yankees",1.0000,0.0000,0.0000,0.0000,0.1475
+"Cristhian Adames","Colorado Rockies",0.7551,0.1429,0.0612,0.0408,0.2178
+"Matt Adams","St. Louis Cardinals",0.5405,0.2432,0.0000,0.2162,0.2492
+"Ehire Adrianza","San Francisco Giants",0.7500,0.1250,0.0000,0.1250,0.2540
+"Nick Ahmed","Arizona Diamondbacks",0.7742,0.1452,0.0161,0.0645,0.2183
+"Hanser Alberto","Texas Rangers",0.8750,0.1250,0.0000,0.0000,0.1429
+"Abraham Almonte","Cleveland Indians",0.5417,0.4167,0.0208,0.0208,0.2637
+"Albert Almora","Chicago Cubs",0.5806,0.2903,0.0323,0.0968,0.2768
+"Yonder Alonso","Oakland Athletics",0.6639,0.2787,0.0000,0.0574,0.2531
+"Aaron Altherr","Philadelphia Phillies",0.7436,0.1538,0.0000,0.1026,0.1970
+"Jose Altuve","Houston Astros",0.6713,0.1944,0.0231,0.1111,0.3375
+"Pedro Alvarez","Baltimore Orioles",0.5000,0.2381,0.0000,0.2619,0.2493
+"Alexi Amarista","San Diego Padres",0.9444,0.0556,0.0000,0.0000,0.2571
+"Chase Anderson","Milwaukee Brewers",1.0000,0.0000,0.0000,0.0000,0.0889
+"Tim Anderson","Chicago White Sox",0.6810,0.1897,0.0517,0.0776,0.2829
+"Tyler Anderson","Colorado Rockies",0.7500,0.0000,0.0000,0.2500,0.1143
+"Elvis Andrus","Texas Rangers",0.6993,0.2026,0.0458,0.0523,0.3024
+"Nori Aoki","Seattle Mariners",0.7288,0.2034,0.0339,0.0339,0.2830
+"Orlando Arcia","Milwaukee Brewers",0.6136,0.2273,0.0682,0.0909,0.2189
+"Oswaldo Arcia","Minnesota Twins",0.6364,0.1818,0.0000,0.1818,0.2136
+"Oswaldo Arcia","Tampa Bay Rays",0.6429,0.1429,0.0714,0.1429,0.2593
+"Oswaldo Arcia","San Diego Padres",0.4000,0.2000,0.0000,0.4000,0.1163
+"Nolan Arenado","Colorado Rockies",0.5495,0.1923,0.0330,0.2253,0.2945
+"Jake Arrieta","Chicago Cubs",0.7059,0.1176,0.0588,0.1176,0.2615
+"Cody Asche","Philadelphia Phillies",0.5476,0.3571,0.0000,0.0952,0.2132
+"Tyler Austin","New York Yankees",0.6000,0.1500,0.0000,0.2500,0.2410
+"Alex Avila","Chicago White Sox",0.6389,0.1667,0.0000,0.1944,0.2130
+"Mike Aviles","Detroit Tigers",0.8000,0.1429,0.0286,0.0286,0.2096
+"Erick Aybar","Atlanta Braves",0.7778,0.1728,0.0247,0.0247,0.2418
+"Erick Aybar","Detroit Tigers",0.7000,0.2500,0.0000,0.0500,0.2500
+"Javier Baez","Chicago Cubs",0.7043,0.1652,0.0087,0.1217,0.2732
+"Jett Bandy","Los Angeles Angels of Anaheim",0.6531,0.1837,0.0000,0.1633,0.2344
+"Austin Barnes","Los Angeles Dodgers",0.8000,0.2000,0.0000,0.0000,0.1563
+"Brandon Barnes","Colorado Rockies",0.6364,0.2727,0.0909,0.0000,0.2200
+"Darwin Barney","Toronto Blue Jays",0.7467,0.1733,0.0267,0.0533,0.2688
+"Tucker Barnhart","Cincinnati Reds",0.6804,0.2371,0.0103,0.0722,0.2573
+"Jose Bautista","Toronto Blue Jays",0.5253,0.2424,0.0101,0.2222,0.2340
+"Gordon Beckham","Atlanta Braves",0.5769,0.3077,0.0192,0.0962,0.2167
+"Tim Beckham","Tampa Bay Rays",0.5510,0.2449,0.1020,0.1020,0.2475
+"Josh Bell","Pittsburgh Pirates",0.6857,0.2286,0.0000,0.0857,0.2734
+"Brandon Belt","San Francisco Giants",0.5570,0.2752,0.0537,0.1141,0.2749
+"Adrian Beltre","Texas Rangers",0.6343,0.1771,0.0057,0.1829,0.3002
+"Carlos Beltran","New York Yankees",0.6055,0.1927,0.0000,0.2018,0.3036
+"Carlos Beltran","Texas Rangers",0.6481,0.2222,0.0000,0.1296,0.2798
+"Andrew Benintendi","Boston Red Sox",0.5484,0.3548,0.0323,0.0645,0.2952
+"Christian Bethancourt","San Diego Padres",0.6591,0.2045,0.0000,0.1364,0.2280
+"Chad Bettis","Colorado Rockies",1.0000,0.0000,0.0000,0.0000,0.0408
+"Mookie Betts","Boston Red Sox",0.6355,0.1963,0.0234,0.1449,0.3185
+"Charlie Blackmon","Colorado Rockies",0.6310,0.1872,0.0267,0.1551,0.3235
+"Andres Blanco","Philadelphia Phillies",0.5833,0.3125,0.0208,0.0833,0.2526
+"Gregor Blanco","San Francisco Giants",0.7222,0.1852,0.0741,0.0185,0.2241
+"Jabari Blash","San Diego Padres",0.5833,0.1667,0.0000,0.2500,0.1690
+"Xander Bogaerts","Boston Red Sox",0.7083,0.1771,0.0052,0.1094,0.2945
+"Emilio Bonifacio","Atlanta Braves",1.0000,0.0000,0.0000,0.0000,0.2105
+"Peter Bourjos","Philadelphia Phillies",0.6404,0.2247,0.0787,0.0562,0.2507
+"Justin Bour","Miami Marlins",0.6216,0.1622,0.0135,0.2027,0.2643
+"Michael Bourn","Arizona Diamondbacks",0.7558,0.1395,0.0698,0.0349,0.2614
+"Michael Bourn","Baltimore Orioles",0.7692,0.0769,0.0000,0.1538,0.2826
+"Archie Bradley","Arizona Diamondbacks",1.0000,0.0000,0.0000,0.0000,0.0698
+"Jackie Bradley","Boston Red Sox",0.5772,0.2013,0.0470,0.1745,0.2670
+"Michael Brantley","Cleveland Indians",0.7778,0.2222,0.0000,0.0000,0.2308
+"Ryan Braun","Milwaukee Brewers",0.6410,0.1474,0.0192,0.1923,0.3053
+"Alex Bregman","Houston Astros",0.5472,0.2453,0.0566,0.1509,0.2637
+"Bryce Brentz","Boston Red Sox",0.7647,0.1765,0.0000,0.0588,0.2787
+"Socrates Brito","Arizona Diamondbacks",0.5294,0.1765,0.0588,0.2353,0.1789
+"Trevor Brown","San Francisco Giants",0.7073,0.1707,0.0000,0.1220,0.2370
+"Keon Broxton","Milwaukee Brewers",0.6000,0.2000,0.0200,0.1800,0.2415
+"Jay Bruce","Cincinnati Reds",0.4592,0.2245,0.0612,0.2551,0.2649
+"Jay Bruce","New York Mets",0.6486,0.1351,0.0000,0.2162,0.2189
+"Kris Bryant","Chicago Cubs",0.5625,0.1989,0.0170,0.2216,0.2919
+"Madison Bumgarner","San Francisco Giants",0.4375,0.3750,0.0000,0.1875,0.1860
+"Billy Burns","Oakland Athletics",0.7656,0.1719,0.0625,0.0000,0.2336
+"Billy Burns","Kansas City Royals",1.0000,0.0000,0.0000,0.0000,0.2432
+"Emmanuel Burriss","Philadelphia Phillies",0.6000,0.2000,0.2000,0.0000,0.1111
+"Nick Buss","Los Angeles Angels of Anaheim",0.4375,0.4375,0.0625,0.0625,0.1975
+"Drew Butera","Kansas City Royals",0.5714,0.2857,0.0286,0.1143,0.2846
+"Billy Butler","Oakland Athletics",0.6721,0.2623,0.0000,0.0656,0.2760
+"Byron Buxton","Minnesota Twins",0.4776,0.2836,0.0896,0.1493,0.2248
+"Marlon Byrd","Cleveland Indians",0.6452,0.1935,0.0000,0.1613,0.2696
+"Asdrubal Cabrera","New York Mets",0.6301,0.2055,0.0068,0.1575,0.2802
+"Melky Cabrera","Chicago White Sox",0.6514,0.2400,0.0286,0.0800,0.2961
+"Miguel Cabrera","Detroit Tigers",0.6277,0.1649,0.0053,0.2021,0.3160
+"Ramon Cabrera","Cincinnati Reds",0.6905,0.2381,0.0000,0.0714,0.2456
+"Lorenzo Cain","Kansas City Royals",0.7456,0.1667,0.0088,0.0789,0.2872
+"Kole Calhoun","Los Angeles Angels of Anaheim",0.6398,0.2174,0.0311,0.1118,0.2710
+"Eric Campbell","New York Mets",0.8462,0.0769,0.0000,0.0769,0.1733
+"Mark Canha","Oakland Athletics",0.4000,0.0000,0.0000,0.6000,0.1220
+"Robinson Cano","Seattle Mariners",0.6205,0.1692,0.0103,0.2000,0.2977
+"Stephen Cardullo","Colorado Rockies",0.5000,0.2500,0.0833,0.1667,0.2143
+"Matt Carpenter","St. Louis Cardinals",0.5078,0.2813,0.0469,0.1641,0.2706
+"Ezequiel Carrera","Toronto Blue Jays",0.7612,0.1343,0.0149,0.0896,0.2481
+"Chris Carter","Milwaukee Brewers",0.4344,0.2213,0.0082,0.3361,0.2222
+"Curt Casali","Tampa Bay Rays",0.5714,0.2381,0.0000,0.1905,0.1858
+"Nick Castellanos","Detroit Tigers",0.5983,0.2137,0.0342,0.1538,0.2847
+"Welington Castillo","Arizona Diamondbacks",0.6545,0.2182,0.0000,0.1273,0.2644
+"Daniel Castro","Atlanta Braves",0.9615,0.0385,0.0000,0.0000,0.2000
+"Jason Castro","Houston Astros",0.5652,0.2319,0.0435,0.1594,0.2097
+"Starlin Castro","New York Yankees",0.6731,0.1859,0.0064,0.1346,0.2704
+"Juan Centeno","Minnesota Twins",0.6522,0.2609,0.0217,0.0652,0.2614
+"Francisco Cervelli","Pittsburgh Pirates",0.8140,0.1628,0.0116,0.0116,0.2638
+"Yoenis Cespedes","New York Mets",0.5746,0.1866,0.0075,0.2313,0.2797
+"Tyler Chatwood","Colorado Rockies",0.9000,0.0000,0.1000,0.0000,0.1887
+"Wei-Yin Chen","Miami Marlins",NULL,NULL,NULL,NULL,0.0000
+"Robinson Chirinos","Texas Rangers",0.3939,0.3333,0.0000,0.2727,0.2245
+"Lonnie Chisenhall","Cleveland Indians",0.6545,0.2273,0.0455,0.0727,0.2857
+"Ji-Man Choi","Los Angeles Angels of Anaheim",0.5263,0.2105,0.0000,0.2632,0.1696
+"Shin-Soo Choo","Texas Rangers",0.6744,0.1628,0.0000,0.1628,0.2416
+"Steve Clevenger","Seattle Mariners",0.7333,0.2000,0.0000,0.0667,0.2206
+"Jason Coats","Chicago White Sox",0.5000,0.4000,0.0000,0.1000,0.2000
+"Chris Coghlan","Oakland Athletics",0.5652,0.2174,0.0000,0.2174,0.1456
+"Chris Coghlan","Chicago Cubs",0.6154,0.2692,0.0769,0.0385,0.2524
+"Gerrit Cole","Pittsburgh Pirates",0.7500,0.1250,0.0000,0.1250,0.2000
+"Tyler Collins","Detroit Tigers",0.7188,0.0625,0.0938,0.1250,0.2353
+"Bartolo Colon","New York Mets",0.4000,0.4000,0.0000,0.2000,0.0833
+"Christian Colon","Kansas City Royals",0.7941,0.1765,0.0000,0.0294,0.2313
+"Michael Conforto","New York Mets",0.4925,0.3134,0.0149,0.1791,0.2204
+"Hank Conger","Tampa Bay Rays",0.6667,0.2083,0.0000,0.1250,0.1935
+"Adam Conley","Miami Marlins",1.0000,0.0000,0.0000,0.0000,0.1220
+"Willson Contreras","Chicago Cubs",0.6197,0.1972,0.0141,0.1690,0.2817
+"Patrick Corbin","Arizona Diamondbacks",0.7333,0.2000,0.0667,0.0000,0.3061
+"Carlos Correa","Houston Astros",0.6266,0.2278,0.0190,0.1266,0.2738
+"Kaleb Cowart","Los Angeles Angels of Anaheim",0.6667,0.2667,0.0000,0.0667,0.1765
+"Zack Cozart","Cincinnati Reds",0.6068,0.2393,0.0171,0.1368,0.2522
+"Brandon Crawford","San Francisco Giants",0.6645,0.1842,0.0724,0.0789,0.2749
+"Carl Crawford","Los Angeles Dodgers",0.8000,0.1333,0.0667,0.0000,0.1852
+"Coco Crisp","Oakland Athletics",0.5761,0.2609,0.0435,0.1196,0.2341
+"Coco Crisp","Cleveland Indians",0.5455,0.2727,0.0000,0.1818,0.2075
+"C. J. Cron","Los Angeles Angels of Anaheim",0.6195,0.2212,0.0177,0.1416,0.2776
+"Nelson Cruz","Seattle Mariners",0.5799,0.1598,0.0059,0.2544,0.2869
+"Johnny Cueto","San Francisco Giants",1.0000,0.0000,0.0000,0.0000,0.1143
+"Charlie Culberson","Los Angeles Dodgers",0.8000,0.1500,0.0000,0.0500,0.2985
+"Cheslor Cuthbert","Kansas City Royals",0.6846,0.2154,0.0077,0.0923,0.2737
+"David Dahl","Colorado Rockies",0.6714,0.1714,0.0571,0.1000,0.3153
+"Chase d'Arnaud","Atlanta Braves",0.7018,0.2456,0.0351,0.0175,0.2446
+"Travis d'Arnaud","New York Mets",0.8226,0.1129,0.0000,0.0645,0.2470
+"Zach Davies","Milwaukee Brewers",1.0000,0.0000,0.0000,0.0000,0.0943
+"Chris Davis","Baltimore Orioles",0.5280,0.1680,0.0000,0.3040,0.2208
+"Khris Davis","Oakland Athletics",0.5036,0.1752,0.0146,0.3066,0.2468
+"Rajai Davis","Cleveland Indians",0.6726,0.2035,0.0177,0.1062,0.2489
+"Alejandro De Aza","New York Mets",0.6875,0.1875,0.0000,0.1250,0.2051
+"Jaff Decker","Tampa Bay Rays",0.8750,0.1250,0.0000,0.0000,0.1538
+"Jacob deGrom","New York Mets",0.8333,0.1667,0.0000,0.0000,0.1429
+"Ivan De Jesus","Cincinnati Reds",0.8036,0.1786,0.0000,0.0179,0.2534
+"Jorge De La Rosa","Colorado Rockies",1.0000,0.0000,0.0000,0.0000,0.1842
+"Matt den Dekker","Washington Nationals",0.6667,0.1667,0.0000,0.1667,0.1765
+"Daniel Descalso","Colorado Rockies",0.6667,0.1818,0.0303,0.1212,0.2640
+"Anthony DeSclafani","Cincinnati Reds",0.8000,0.2000,0.0000,0.0000,0.1220
+"Delino DeShields","Texas Rangers",0.7105,0.1842,0.0000,0.1053,0.2088
+"Ian Desmond","Texas Rangers",0.6966,0.1629,0.0169,0.1236,0.2848
+"Aledmys Diaz","St. Louis Cardinals",0.6033,0.2314,0.0248,0.1405,0.2995
+"Alex Dickerson","San Diego Padres",0.5692,0.2462,0.0308,0.1538,0.2569
+"Corey Dickerson","Tampa Bay Rays",0.4960,0.2880,0.0240,0.1920,0.2451
+"Derek Dietrich","Miami Marlins",0.6735,0.2041,0.0510,0.0714,0.2792
+"Wilmer Difo","Washington Nationals",0.7500,0.1875,0.0000,0.0625,0.2759
+"Josh Donaldson","Toronto Blue Jays",0.5488,0.1951,0.0305,0.2256,0.2842
+"Brian Dozier","Minnesota Twins",0.5030,0.2121,0.0303,0.2545,0.2683
+"Stephen Drew","Washington Nationals",0.4737,0.2895,0.0263,0.2105,0.2657
+"Brandon Drury","Arizona Diamondbacks",0.6308,0.2385,0.0077,0.1231,0.2820
+"Lucas Duda","New York Mets",0.6000,0.2000,0.0000,0.2000,0.2288
+"Matt Duffy","San Francisco Giants",0.7385,0.1692,0.0308,0.0615,0.2529
+"Matt Duffy","Tampa Bay Rays",0.8095,0.1429,0.0000,0.0476,0.2763
+"Adam Duvall","Cincinnati Reds",0.4737,0.2331,0.0451,0.2481,0.2409
+"Jarrod Dyson","Kansas City Royals",0.7229,0.1687,0.0964,0.0120,0.2776
+"Adam Eaton","Chicago White Sox",0.7045,0.1648,0.0511,0.0795,0.2843
+"Brett Eibner","Kansas City Royals",0.5000,0.3333,0.0000,0.1667,0.2308
+"Brett Eibner","Oakland Athletics",0.5556,0.2222,0.0556,0.1667,0.1651
+"Jerad Eickhoff","Philadelphia Phillies",0.6250,0.3750,0.0000,0.0000,0.1311
+"A. J. Ellis","Los Angeles Dodgers",0.7778,0.1852,0.0000,0.0370,0.1942
+"A. J. Ellis","Philadelphia Phillies",0.6000,0.3000,0.0000,0.1000,0.3125
+"Jacoby Ellsbury","New York Yankees",0.7379,0.1655,0.0345,0.0621,0.2632
+"Jake Elmore","Milwaukee Brewers",0.8824,0.1176,0.0000,0.0000,0.2179
+"Edwin Encarnacion","Toronto Blue Jays",0.5190,0.2152,0.0000,0.2658,0.2629
+"Alcides Escobar","Kansas City Royals",0.7771,0.1446,0.0361,0.0422,0.2606
+"Eduardo Escobar","Minnesota Twins",0.7349,0.1687,0.0241,0.0723,0.2358
+"Yunel Escobar","Los Angeles Angels of Anaheim",0.7834,0.1783,0.0064,0.0318,0.3037
+"Danny Espinosa","Washington Nationals",0.6389,0.1389,0.0000,0.2222,0.2093
+"Tim Federowicz","Chicago Cubs",0.6667,0.3333,0.0000,0.0000,0.1935
+"Jose Fernandez","Miami Marlins",0.8462,0.1538,0.0000,0.0000,0.2500
+"Prince Fielder","Texas Rangers",0.6522,0.2319,0.0000,0.1159,0.2117
+"Brandon Finnegan","Cincinnati Reds",0.6667,0.3333,0.0000,0.0000,0.1132
+"Ryan Flaherty","Baltimore Orioles",0.7059,0.2059,0.0000,0.0882,0.2166
+"Ramon Flores","Milwaukee Brewers",0.8039,0.1569,0.0000,0.0392,0.2048
+"Wilmer Flores","New York Mets",0.6341,0.1707,0.0000,0.1951,0.2671
+"Tyler Flowers","Atlanta Braves",0.6579,0.2368,0.0000,0.1053,0.2705
+"Mike Foltynewicz","Atlanta Braves",0.8000,0.2000,0.0000,0.0000,0.1389
+"Logan Forsythe","Tampa Bay Rays",0.6444,0.1778,0.0296,0.1481,0.2642
+"Dexter Fowler","Chicago Cubs",0.6429,0.1984,0.0556,0.1032,0.2763
+"Jeff Francoeur","Atlanta Braves",0.6875,0.2031,0.0000,0.1094,0.2490
+"Jeff Francoeur","Miami Marlins",0.7857,0.1429,0.0714,0.0000,0.2800
+"Maikel Franco","Philadelphia Phillies",0.6689,0.1554,0.0068,0.1689,0.2547
+"Nick Franklin","Tampa Bay Rays",0.6383,0.2128,0.0213,0.1277,0.2701
+"Adam Frazier","Pittsburgh Pirates",0.7500,0.1818,0.0227,0.0455,0.3014
+"Todd Frazier","Chicago White Sox",0.5414,0.1579,0.0000,0.3008,0.2254
+"Freddie Freeman","Atlanta Braves",0.5337,0.2416,0.0337,0.1910,0.3022
+"David Freese","Pittsburgh Pirates",0.6949,0.1949,0.0000,0.1102,0.2700
+"Christian Friedrich","San Diego Padres",1.0000,0.0000,0.0000,0.0000,0.0541
+"Eric Fryer","St. Louis Cardinals",0.8571,0.1429,0.0000,0.0000,0.3684
+"Eric Fryer","Pittsburgh Pirates",0.8235,0.1176,0.0588,0.0000,0.2179
+"Reymond Fuentes","Kansas City Royals",0.9231,0.0769,0.0000,0.0000,0.3171
+"Freddy Galvis","Philadelphia Phillies",0.6525,0.1844,0.0213,0.1418,0.2414
+"Ben Gamel","Seattle Mariners",0.6250,0.2500,0.0000,0.1250,0.2000
+"Adonis Garcia","Atlanta Braves",0.7034,0.2000,0.0000,0.0966,0.2726
+"Avisail Garcia","Chicago White Sox",0.6832,0.1782,0.0198,0.1188,0.2446
+"Greg Garcia","St. Louis Cardinals",0.7627,0.1864,0.0000,0.0508,0.2757
+"Jaime Garcia","St. Louis Cardinals",1.0000,0.0000,0.0000,0.0000,0.1707
+"Leury Garcia","Chicago White Sox",0.7273,0.0909,0.0909,0.0909,0.2292
+"Brett Gardner","New York Yankees",0.7552,0.1538,0.0420,0.0490,0.2614
+"Dustin Garneau","Colorado Rockies",0.5625,0.3750,0.0000,0.0625,0.2353
+"Evan Gattis","Houston Astros",0.5446,0.1696,0.0000,0.2857,0.2506
+"Scooter Gennett","Milwaukee Brewers",0.6565,0.2290,0.0076,0.1069,0.2631
+"Craig Gentry","Los Angeles Angels of Anaheim",0.8000,0.2000,0.0000,0.0000,0.1471
+"Johnny Giavotella","Los Angeles Angels of Anaheim",0.7000,0.2222,0.0111,0.0667,0.2601
+"Conor Gillaspie","San Francisco Giants",0.6400,0.1600,0.0800,0.1200,0.2618
+"Cole Gillespie","Miami Marlins",0.5833,0.2500,0.1667,0.0000,0.2353
+"Chris Gimenez","Cleveland Indians",0.7333,0.1333,0.0000,0.1333,0.2158
+"Tyler Goeddel","Philadelphia Phillies",0.7561,0.0732,0.0732,0.0976,0.1925
+"Ryan Goins","Toronto Blue Jays",0.5882,0.2647,0.0588,0.0882,0.1858
+"Paul Goldschmidt","Arizona Diamondbacks",0.6512,0.1919,0.0174,0.1395,0.2971
+"Yan Gomes","Cleveland Indians",0.5000,0.2619,0.0238,0.2143,0.1673
+"Carlos Gomez","Houston Astros",0.6452,0.2581,0.0161,0.0806,0.2102
+"Carlos Gomez","Texas Rangers",0.5758,0.1818,0.0000,0.2424,0.2845
+"Adrian Gonzalez","Los Angeles Dodgers",0.6975,0.1914,0.0000,0.1111,0.2852
+"Carlos Gonzalez","Colorado Rockies",0.6034,0.2414,0.0115,0.1437,0.2979
+"Gio Gonzalez","Washington Nationals",0.7143,0.2857,0.0000,0.0000,0.1346
+"Marwin Gonzalez","Houston Astros",0.6585,0.2114,0.0244,0.1057,0.2541
+"Brian Goodwin","Washington Nationals",0.5833,0.3333,0.0833,0.0000,0.2857
+"Alex Gordon","Kansas City Royals",0.6429,0.1633,0.0204,0.1735,0.2202
+"Dee Gordon","Miami Marlins",0.8391,0.0805,0.0690,0.0115,0.2677
+"Anthony Gose","Detroit Tigers",0.6842,0.1053,0.1053,0.1053,0.2088
+"Tuffy Gosewisch","Arizona Diamondbacks",0.6429,0.0714,0.0714,0.2143,0.1556
+"Philip Gosselin","Arizona Diamondbacks",0.7541,0.1967,0.0164,0.0328,0.2773
+"Yulieski Gurriel","Houston Astros",0.7059,0.2059,0.0000,0.0882,0.2615
+"Curtis Granderson","New York Mets",0.5426,0.1860,0.0388,0.2326,0.2367
+"Yasmani Grandal","Los Angeles Dodgers",0.5281,0.1573,0.0112,0.3034,0.2282
+"Jon Gray","Colorado Rockies",0.7143,0.2857,0.0000,0.0000,0.1489
+"Grant Green","San Francisco Giants",0.7500,0.1667,0.0000,0.0833,0.2609
+"Didi Gregorius","New York Yankees",0.6516,0.2065,0.0129,0.1290,0.2758
+"Zack Greinke","Arizona Diamondbacks",0.9091,0.0909,0.0000,0.0000,0.2115
+"Randal Grichuk","St. Louis Cardinals",0.4766,0.2710,0.0280,0.2243,0.2399
+"Robbie Grossman","Minnesota Twins",0.6667,0.2043,0.0108,0.1183,0.2801
+"Junior Guerra","Milwaukee Brewers",0.7500,0.2500,0.0000,0.0000,0.2286
+"Franklin Gutierrez","Seattle Mariners",0.6230,0.1475,0.0000,0.2295,0.2460
+"Brandon Guyer","Tampa Bay Rays",0.6078,0.2353,0.0196,0.1373,0.2406
+"Brandon Guyer","Cleveland Indians",0.7407,0.1852,0.0000,0.0741,0.3333
+"Jedd Gyorko","St. Louis Cardinals",0.5876,0.0928,0.0103,0.3093,0.2425
+"Billy Hamilton","Cincinnati Reds",0.7664,0.1776,0.0280,0.0280,0.2603
+"Jason Hammel","Chicago Cubs",0.8125,0.1875,0.0000,0.0000,0.2462
+"Mitch Haniger","Arizona Diamondbacks",0.6800,0.0800,0.0400,0.2000,0.2294
+"Ryan Hanigan","Boston Red Sox",0.7222,0.2222,0.0000,0.0556,0.1714
+"Alen Hanson","Pittsburgh Pirates",0.8571,0.1429,0.0000,0.0000,0.2258
+"J. J. Hardy","Baltimore Orioles",0.6514,0.2661,0.0000,0.0826,0.2691
+"Bryce Harper","Washington Nationals",0.5935,0.1951,0.0163,0.1951,0.2431
+"Josh Harrison","Pittsburgh Pirates",0.7391,0.1812,0.0507,0.0290,0.2834
+"Jeremy Hazelbaker","St. Louis Cardinals",0.5319,0.1489,0.0638,0.2553,0.2350
+"Chase Headley","New York Yankees",0.7203,0.1525,0.0085,0.1186,0.2527
+"Ryon Healy","Oakland Athletics",0.5976,0.2439,0.0000,0.1585,0.3048
+"Adeiny Hechavarria","Miami Marlins",0.7833,0.1417,0.0500,0.0250,0.2362
+"Chris Heisey","Washington Nationals",0.5667,0.1000,0.0333,0.3000,0.2158
+"Jeremy Hellickson","Philadelphia Phillies",0.8889,0.1111,0.0000,0.0000,0.1667
+"Kyle Hendricks","Chicago Cubs",1.0000,0.0000,0.0000,0.0000,0.1379
+"Guillermo Heredia","Seattle Mariners",0.8261,0.1304,0.0000,0.0435,0.2500
+"Cesar Hernandez","Philadelphia Phillies",0.8075,0.0870,0.0683,0.0373,0.2943
+"Enrique Hernandez","Los Angeles Dodgers",0.6341,0.1951,0.0000,0.1707,0.1898
+"Gorkys Hernandez","San Francisco Giants",0.5000,0.3571,0.0000,0.1429,0.2593
+"Marco Hernandez","Boston Red Sox",0.8667,0.0667,0.0000,0.0667,0.2941
+"Teoscar Hernandez","Houston Astros",0.5217,0.3043,0.0000,0.1739,0.2300
+"Odubel Herrera","Philadelphia Phillies",0.7485,0.1257,0.0359,0.0898,0.2864
+"Chris Herrmann","Arizona Diamondbacks",0.6429,0.1190,0.0952,0.1429,0.2838
+"Jason Heyward","Chicago Cubs",0.7131,0.2213,0.0082,0.0574,0.2302
+"Aaron Hicks","New York Yankees",0.6901,0.1831,0.0141,0.1127,0.2171
+"Aaron Hill","Milwaukee Brewers",0.7361,0.1528,0.0000,0.1111,0.2835
+"Aaron Hill","Boston Red Sox",0.8148,0.1111,0.0000,0.0741,0.2177
+"Bryan Holaday","Texas Rangers",0.5500,0.3000,0.0500,0.1000,0.2381
+"Bryan Holaday","Boston Red Sox",0.8571,0.1429,0.0000,0.0000,0.2121
+"Matt Holliday","St. Louis Cardinals",0.5638,0.2128,0.0106,0.2128,0.2461
+"Brock Holt","Boston Red Sox",0.6892,0.2162,0.0000,0.0946,0.2552
+"Tyler Holt","Cincinnati Reds",0.8095,0.1190,0.0714,0.0000,0.2346
+"Eric Hosmer","Kansas City Royals",0.6894,0.1491,0.0062,0.1553,0.2661
+"Ryan Howard","Philadelphia Phillies",0.4615,0.1538,0.0000,0.3846,0.1964
+"Jared Hoying","Texas Rangers",0.8000,0.2000,0.0000,0.0000,0.2174
+"Nick Hundley","Colorado Rockies",0.5867,0.2667,0.0133,0.1333,0.2595
+"Cedric Hunter","Philadelphia Phillies",0.6667,0.0000,0.0000,0.3333,0.0882
+"Chris Iannetta","Seattle Mariners",0.6613,0.2258,0.0000,0.1129,0.2102
+"Jose Iglesias","Detroit Tigers",0.7479,0.2185,0.0000,0.0336,0.2548
+"Ender Inciarte","Atlanta Braves",0.7763,0.1579,0.0461,0.0197,0.2912
+"Omar Infante","Kansas City Royals",0.6875,0.2813,0.0313,0.0000,0.2388
+"Hernan Iribarren","Cincinnati Reds",0.7857,0.0000,0.2143,0.0000,0.3111
+"Austin Jackson","Chicago White Sox",0.6957,0.2609,0.0435,0.0000,0.2541
+"Paul Janish","Baltimore Orioles",0.8333,0.1667,0.0000,0.0000,0.1935
+"Travis Jankowski","San Diego Padres",0.7927,0.1585,0.0244,0.0244,0.2448
+"John Jaso","Pittsburgh Pirates",0.6471,0.2451,0.0294,0.0784,0.2684
+"Jon Jay","San Diego Padres",0.7129,0.2574,0.0099,0.0198,0.2911
+"Desmond Jennings","Tampa Bay Rays",0.6250,0.1750,0.0250,0.1750,0.2000
+"Kyle Jensen","Arizona Diamondbacks",0.5000,0.0000,0.1667,0.3333,0.1935
+"Chris Johnson","Miami Marlins",0.7037,0.2037,0.0000,0.0926,0.2222
+"Kelly Johnson","Atlanta Braves",0.7308,0.2308,0.0000,0.0385,0.2149
+"Kelly Johnson","New York Mets",0.6531,0.1633,0.0000,0.1837,0.2678
+"Adam Jones","Baltimore Orioles",0.7073,0.1159,0.0000,0.1768,0.2649
+"Caleb Joseph","Baltimore Orioles",0.8696,0.1304,0.0000,0.0000,0.1742
+"Tommy Joseph","Philadelphia Phillies",0.5556,0.1852,0.0000,0.2593,0.2571
+"Matthew Joyce","Pittsburgh Pirates",0.5714,0.1786,0.0179,0.2321,0.2424
+"Aaron Judge","New York Yankees",0.6000,0.1333,0.0000,0.2667,0.1786
+"Jung Ho Kang","Pittsburgh Pirates",0.5062,0.2346,0.0000,0.2593,0.2547
+"Scott Kazmir","Los Angeles Dodgers",1.0000,0.0000,0.0000,0.0000,0.1163
+"Ty Kelly","New York Mets",0.7857,0.0714,0.0714,0.0714,0.2414
+"Matt Kemp","San Diego Padres",0.5607,0.2243,0.0000,0.2150,0.2616
+"Matt Kemp","Atlanta Braves",0.5500,0.2500,0.0000,0.2000,0.2804
+"Tony Kemp","Houston Astros",0.6923,0.1538,0.1154,0.0385,0.2167
+"Howie Kendrick","Los Angeles Dodgers",0.7097,0.2097,0.0161,0.0645,0.2546
+"Max Kepler","Minnesota Twins",0.5806,0.2151,0.0215,0.1828,0.2348
+"Clayton Kershaw","Los Angeles Dodgers",0.8750,0.1250,0.0000,0.0000,0.1739
+"Kevin Kiermaier","Tampa Bay Rays",0.6222,0.2222,0.0222,0.1333,0.2459
+"Hyun Soo Kim","Baltimore Orioles",0.7500,0.1739,0.0109,0.0652,0.3016
+"Ian Kinsler","Detroit Tigers",0.6573,0.1629,0.0225,0.1573,0.2880
+"Jason Kipnis","Cleveland Indians",0.5952,0.2440,0.0238,0.1369,0.2754
+"Tom Koehler","Miami Marlins",1.0000,0.0000,0.0000,0.0000,0.0980
+"Erik Kratz","Pittsburgh Pirates",0.6667,0.1667,0.0000,0.1667,0.1071
+"John Lackey","Chicago Cubs",0.6667,0.3333,0.0000,0.0000,0.0952
+"Tyler Ladendorf","Oakland Athletics",1.0000,0.0000,0.0000,0.0000,0.0833
+"Juan Lagares","New York Mets",0.6471,0.2059,0.0588,0.0882,0.2394
+"Junior Lake","Toronto Blue Jays",0.4286,0.4286,0.0000,0.1429,0.2000
+"Jake Lamb","Arizona Diamondbacks",0.4692,0.2385,0.0692,0.2231,0.2486
+"Tommy La Stella","Chicago Cubs",0.6250,0.3000,0.0250,0.0500,0.2703
+"Brett Lawrie","Chicago White Sox",0.6092,0.2529,0.0000,0.1379,0.2479
+"Mike Leake","St. Louis Cardinals",0.8571,0.1429,0.0000,0.0000,0.1429
+"Dae-ho Lee","Seattle Mariners",0.6892,0.1216,0.0000,0.1892,0.2534
+"DJ LeMahieu","Colorado Rockies",0.7344,0.1667,0.0417,0.0573,0.3478
+"Sandy Leon","Boston Red Sox",0.6667,0.2179,0.0256,0.0897,0.3095
+"Jon Lester","Chicago Cubs",0.5000,0.5000,0.0000,0.0000,0.1017
+"Adam Lind","Seattle Mariners",0.6146,0.1771,0.0000,0.2083,0.2394
+"Francisco Lindor","Cleveland Indians",0.7363,0.1648,0.0165,0.0824,0.3013
+"Francisco Liriano","Pittsburgh Pirates",0.8333,0.0833,0.0000,0.0833,0.2857
+"Jose Lobaton","Washington Nationals",0.6957,0.1304,0.0435,0.1304,0.2323
+"Jeff Locke","Pittsburgh Pirates",1.0000,0.0000,0.0000,0.0000,0.1250
+"James Loney","New York Mets",0.7143,0.1758,0.0110,0.0989,0.2653
+"Evan Longoria","Tampa Bay Rays",0.5318,0.2370,0.0231,0.2081,0.2733
+"David Lough","Philadelphia Phillies",0.7500,0.1875,0.0625,0.0000,0.2388
+"Jed Lowrie","Oakland Athletics",0.8315,0.1348,0.0112,0.0225,0.2633
+"Jonathan Lucroy","Milwaukee Brewers",0.6733,0.1683,0.0297,0.1287,0.2988
+"Jonathan Lucroy","Texas Rangers",0.5714,0.1667,0.0000,0.2619,0.2763
+"Manny Machado","Baltimore Orioles",0.5851,0.2128,0.0053,0.1968,0.2938
+"Kenta Maeda","Los Angeles Dodgers",0.7143,0.1429,0.0000,0.1429,0.1228
+"Mikie Mahtook","Tampa Bay Rays",0.6667,0.2500,0.0000,0.0833,0.1946
+"Luke Maile","Tampa Bay Rays",0.6296,0.2593,0.0000,0.1111,0.2269
+"Martin Maldonado","Milwaukee Brewers",0.6429,0.1667,0.0000,0.1905,0.2019
+"Manuel Margot","San Diego Padres",0.4444,0.4444,0.1111,0.0000,0.2432
+"Jake Marisnick","Houston Astros",0.6000,0.3000,0.0167,0.0833,0.2091
+"Nick Markakis","Atlanta Braves",0.6832,0.2360,0.0000,0.0807,0.2688
+"Jefry Marte","Los Angeles Angels of Anaheim",0.5538,0.2154,0.0000,0.2308,0.2519
+"Ketel Marte","Seattle Mariners",0.7876,0.1858,0.0177,0.0088,0.2586
+"Starling Marte","Pittsburgh Pirates",0.6842,0.2237,0.0329,0.0592,0.3108
+"Carlos Martinez","St. Louis Cardinals",0.9286,0.0714,0.0000,0.0000,0.2373
+"J. D. Martinez","Detroit Tigers",0.5816,0.2482,0.0142,0.1560,0.3065
+"Leonys Martin","Seattle Mariners",0.7266,0.1328,0.0234,0.1172,0.2471
+"Michael Martinez","Cleveland Indians",0.7647,0.1765,0.0000,0.0588,0.2833
+"Michael Martinez","Cleveland Indians",0.8333,0.1667,0.0000,0.0000,0.1714
+"Russell Martin","Toronto Blue Jays",0.6571,0.1524,0.0000,0.1905,0.2308
+"Victor Martinez","Detroit Tigers",0.6938,0.1375,0.0000,0.1688,0.2893
+"Jeff Mathis","Miami Marlins",0.7667,0.1333,0.0333,0.0667,0.2381
+"Steven Matz","New York Mets",0.6000,0.2000,0.2000,0.0000,0.1389
+"Joe Mauer","Minnesota Twins",0.7132,0.1705,0.0310,0.0853,0.2611
+"Bruce Maxwell","Oakland Athletics",0.6923,0.2308,0.0385,0.0385,0.2826
+"Cameron Maybin","Detroit Tigers",0.7909,0.1273,0.0455,0.0364,0.3152
+"Nomar Mazara","Texas Rangers",0.7372,0.0949,0.0219,0.1460,0.2655
+"Matt McBride","Oakland Athletics",0.6667,0.3333,0.0000,0.0000,0.2093
+"Brian McCann","New York Yankees",0.6827,0.1250,0.0000,0.1923,0.2424
+"James McCann","Detroit Tigers",0.7105,0.1184,0.0132,0.1579,0.2209
+"Andrew McCutchen","Pittsburgh Pirates",0.6536,0.1699,0.0196,0.1569,0.2559
+"Casey McGehee","Detroit Tigers",0.9524,0.0476,0.0000,0.0000,0.2283
+"Jordy Mercer","Pittsburgh Pirates",0.7293,0.1654,0.0226,0.0827,0.2563
+"Whit Merrifield","Kansas City Royals",0.6932,0.2500,0.0341,0.0227,0.2830
+"Devin Mesoraco","Cincinnati Reds",0.8571,0.1429,0.0000,0.0000,0.1400
+"Brad Miller","Tampa Bay Rays",0.5113,0.2180,0.0451,0.2256,0.2427
+"Shelby Miller","Arizona Diamondbacks",0.5000,0.2500,0.2500,0.0000,0.1250
+"Yadier Molina","St. Louis Cardinals",0.7134,0.2317,0.0061,0.0488,0.3071
+"Raul Mondesi","Kansas City Royals",0.7600,0.0400,0.1200,0.0800,0.1852
+"Miguel Montero","Chicago Cubs",0.6731,0.1538,0.0192,0.1538,0.2158
+"Kendrys Morales","Kansas City Royals",0.6327,0.1633,0.0000,0.2041,0.2634
+"Mitch Moreland","Texas Rangers",0.5981,0.1963,0.0000,0.2056,0.2326
+"Adam Morgan","Philadelphia Phillies",0.6667,0.3333,0.0000,0.0000,0.0938
+"Justin Morneau","Chicago White Sox",0.6038,0.2642,0.0189,0.1132,0.2611
+"Logan Morrison","Tampa Bay Rays",0.6071,0.2143,0.0119,0.1667,0.2380
+"Brandon Moss","St. Louis Cardinals",0.4731,0.2043,0.0215,0.3011,0.2252
+"Taylor Motter","Tampa Bay Rays",0.6667,0.2000,0.0000,0.1333,0.1875
+"Mike Moustakas","Kansas City Royals",0.4800,0.2400,0.0000,0.2800,0.2404
+"Steven Moya","Detroit Tigers",0.5417,0.1667,0.0833,0.2083,0.2553
+"Max Muncy","Oakland Athletics",0.8095,0.0952,0.0000,0.0952,0.1858
+"Daniel Murphy","Washington Nationals",0.5815,0.2554,0.0272,0.1359,0.3465
+"J. R. Murphy","Minnesota Twins",0.6667,0.2500,0.0000,0.0833,0.1463
+"Tom Murphy","Colorado Rockies",0.4167,0.1667,0.0000,0.4167,0.2727
+"Wil Myers","San Diego Padres",0.6065,0.1871,0.0258,0.1806,0.2588
+"Mike Napoli","Cleveland Indians",0.5714,0.1654,0.0075,0.2556,0.2388
+"Tyler Naquin","Cleveland Indians",0.6105,0.1895,0.0526,0.1474,0.2960
+"Omar Narvaez","Chicago White Sox",0.8148,0.1481,0.0000,0.0370,0.2673
+"Daniel Nava","Los Angeles Angels of Anaheim",0.7857,0.1786,0.0000,0.0357,0.2353
+"Dioner Navarro","Chicago White Sox",0.6316,0.2281,0.0351,0.1053,0.2103
+"Dioner Navarro","Toronto Blue Jays",1.0000,0.0000,0.0000,0.0000,0.1818
+"Jimmy Nelson","Milwaukee Brewers",1.0000,0.0000,0.0000,0.0000,0.0800
+"Brett Nicholas","Texas Rangers",0.3636,0.4545,0.0000,0.1818,0.2750
+"Kirk Nieuwenhuis","Milwaukee Brewers",0.5429,0.2571,0.0143,0.1857,0.2090
+"Brandon Nimmo","New York Mets",0.9000,0.0500,0.0000,0.0500,0.2740
+"Derek Norris","San Diego Padres",0.5974,0.2208,0.0000,0.1818,0.1855
+"Eduardo Nunez","Minnesota Twins",0.7455,0.1364,0.0091,0.1091,0.2965
+"Eduardo Nunez","San Francisco Giants",0.6735,0.1837,0.0612,0.0816,0.2692
+"Peter O'Brien","Arizona Diamondbacks",0.3333,0.1111,0.0000,0.5556,0.1406
+"Rougned Odor","Texas Rangers",0.5732,0.2012,0.0244,0.2012,0.2711
+"Shawn O'Malley","Seattle Mariners",0.7292,0.1875,0.0417,0.0417,0.2286
+"Paulo Orlando","Kansas City Royals",0.7609,0.1739,0.0290,0.0362,0.3020
+"Rafael Ortega","Los Angeles Angels of Anaheim",0.7907,0.1860,0.0000,0.0233,0.2324
+"David Ortiz","Boston Red Sox",0.4852,0.2840,0.0059,0.2249,0.3147
+"Chris Owings","Arizona Diamondbacks",0.6694,0.1983,0.0909,0.0413,0.2769
+"Marcell Ozuna","Miami Marlins",0.6486,0.1554,0.0405,0.1554,0.2657
+"Jordan Pacheco","Cincinnati Reds",0.5000,0.5000,0.0000,0.0000,0.1569
+"Angel Pagan","San Francisco Giants",0.7007,0.1752,0.0365,0.0876,0.2768
+"Joe Panik","San Francisco Giants",0.6577,0.1892,0.0631,0.0901,0.2392
+"Jimmy Paredes","Philadelphia Phillies",0.6452,0.2258,0.0000,0.1290,0.2168
+"Byung Ho Park","Minnesota Twins",0.4634,0.2195,0.0244,0.2927,0.1907
+"Jarrett Parker","San Francisco Giants",0.7000,0.1000,0.0333,0.1667,0.2362
+"Gerardo Parra","Colorado Rockies",0.6022,0.2903,0.0323,0.0753,0.2527
+"Ben Paulsen","Colorado Rockies",0.7000,0.2500,0.0000,0.0500,0.2174
+"Steve Pearce","Tampa Bay Rays",0.6508,0.1746,0.0159,0.1587,0.3088
+"Steve Pearce","Baltimore Orioles",0.6154,0.1538,0.0000,0.2308,0.2167
+"Joc Pederson","Los Angeles Dodgers",0.4900,0.2600,0.0000,0.2500,0.2463
+"Dustin Pedroia","Boston Red Sox",0.7413,0.1791,0.0050,0.0746,0.3175
+"Francisco Pena","Baltimore Orioles",0.8750,0.0000,0.0000,0.1250,0.2000
+"Ramiro Pena","San Francisco Giants",0.6923,0.2308,0.0385,0.0385,0.2989
+"Hunter Pence","San Francisco Giants",0.6754,0.2018,0.0088,0.1140,0.2886
+"Cliff Pennington","Los Angeles Angels of Anaheim",0.7500,0.1111,0.0556,0.0833,0.2093
+"David Peralta","Arizona Diamondbacks",0.5814,0.2093,0.1163,0.0930,0.2515
+"Jhonny Peralta","St. Louis Cardinals",0.6533,0.2267,0.0133,0.1067,0.2595
+"Wily Peralta","Milwaukee Brewers",0.6000,0.2000,0.0000,0.2000,0.1282
+"Jose Peraza","Cincinnati Reds",0.8333,0.1026,0.0256,0.0385,0.3237
+"Luis Perdomo","San Diego Padres",0.8000,0.2000,0.0000,0.0000,0.1316
+"Carlos Perez","Los Angeles Angels of Anaheim",0.6250,0.2857,0.0000,0.0893,0.2090
+"Hernan Perez","Milwaukee Brewers",0.6909,0.1636,0.0273,0.1182,0.2723
+"Roberto Perez","Cleveland Indians",0.6429,0.2143,0.0357,0.1071,0.1830
+"Salvador Perez","Kansas City Royals",0.5906,0.2205,0.0157,0.1732,0.2471
+"Jace Peterson","Atlanta Braves",0.7303,0.1798,0.0112,0.0787,0.2543
+"Gregorio Petit","Los Angeles Angels of Anaheim",0.6800,0.2600,0.0200,0.0400,0.2451
+"Tommy Pham","St. Louis Cardinals",0.5556,0.1944,0.0000,0.2500,0.2264
+"Josh Phegley","Oakland Athletics",0.6500,0.3000,0.0000,0.0500,0.2564
+"Brandon Phillips","Cincinnati Reds",0.7125,0.2125,0.0063,0.0688,0.2909
+"A. J. Pierzynski","Atlanta Braves",0.6852,0.2778,0.0000,0.0370,0.2186
+"Kevin Pillar","Toronto Blue Jays",0.6986,0.2397,0.0137,0.0479,0.2664
+"Manny Pina","Milwaukee Brewers",0.6667,0.2222,0.0000,0.1111,0.2535
+"Chad Pinder","Oakland Athletics",0.5833,0.3333,0.0000,0.0833,0.2353
+"Jose Pirela","San Diego Padres",0.6667,0.3333,0.0000,0.0000,0.1538
+"Stephen Piscotty","St. Louis Cardinals",0.6226,0.2201,0.0189,0.1384,0.2732
+"Kevin Plawecki","New York Mets",0.7308,0.2308,0.0000,0.0385,0.1970
+"Trevor Plouffe","Minnesota Twins",0.6867,0.1566,0.0120,0.1446,0.2602
+"Gregory Polanco","Pittsburgh Pirates",0.5588,0.2500,0.0294,0.1618,0.2581
+"Jorge Polanco","Minnesota Twins",0.6667,0.2174,0.0580,0.0580,0.2816
+"A. J. Pollock","Arizona Diamondbacks",0.8000,0.0000,0.0000,0.2000,0.2439
+"Drew Pomeranz","San Diego Padres",0.8000,0.0000,0.0000,0.2000,0.1515
+"Buster Posey","San Francisco Giants",0.6839,0.2129,0.0129,0.0903,0.2876
+"Martin Prado","Miami Marlins",0.7377,0.2022,0.0164,0.0437,0.3050
+"Alex Presley","Milwaukee Brewers",0.7826,0.0870,0.0000,0.1304,0.1983
+"Jurickson Profar","Texas Rangers",0.7846,0.0923,0.0462,0.0769,0.2390
+"Yasiel Puig","Los Angeles Dodgers",0.6932,0.1591,0.0227,0.1250,0.2635
+"Albert Pujols","Los Angeles Angels of Anaheim",0.6855,0.1195,0.0000,0.1950,0.2681
+"Roman Quinn","Philadelphia Phillies",0.7333,0.2667,0.0000,0.0000,0.2632
+"Ryan Raburn","Colorado Rockies",0.5714,0.2041,0.0408,0.1837,0.2197
+"Alexei Ramirez","San Diego Padres",0.7426,0.1881,0.0198,0.0495,0.2399
+"Alexei Ramirez","Tampa Bay Rays",0.7143,0.2143,0.0000,0.0714,0.2456
+"Hanley Ramirez","Boston Red Sox",0.6242,0.1783,0.0064,0.1911,0.2860
+"Jose Ramirez","Cleveland Indians",0.6591,0.2614,0.0170,0.0625,0.3115
+"Wilson Ramos","Washington Nationals",0.6824,0.1689,0.0000,0.1486,0.3071
+"Colby Rasmus","Houston Astros",0.6711,0.1316,0.0000,0.1974,0.2060
+"Robbie Ray","Arizona Diamondbacks",0.7000,0.2000,0.0000,0.1000,0.1887
+"Colin Rea","San Diego Padres",1.0000,0.0000,0.0000,0.0000,0.1212
+"J. T. Realmuto","Miami Marlins",0.7273,0.2013,0.0000,0.0714,0.3026
+"Anthony Recker","Atlanta Braves",0.6000,0.3200,0.0000,0.0800,0.2778
+"Josh Reddick","Oakland Athletics",0.7222,0.1528,0.0139,0.1111,0.2963
+"Josh Reddick","Los Angeles Dodgers",0.8000,0.1500,0.0000,0.0500,0.2581
+"A. J. Reed","Houston Astros",0.7000,0.1500,0.0000,0.1500,0.1639
+"Rob Refsnyder","New York Yankees",0.7632,0.2368,0.0000,0.0000,0.2500
+"Nolan Reimold","Baltimore Orioles",0.6444,0.2000,0.0222,0.1333,0.2217
+"Tony Renda","Cincinnati Reds",0.8182,0.1818,0.0000,0.0000,0.1833
+"Anthony Rendon","Washington Nationals",0.6078,0.2484,0.0131,0.1307,0.2698
+"Hunter Renfroe","San Diego Padres",0.4615,0.2308,0.0000,0.3077,0.3714
+"Ben Revere","Washington Nationals",0.7632,0.1184,0.0921,0.0263,0.2171
+"Jose Reyes","New York Mets",0.6324,0.1912,0.0588,0.1176,0.2667
+"Mark Reynolds","Colorado Rockies",0.6577,0.2162,0.0000,0.1261,0.2824
+"Matt Reynolds","New York Mets",0.4500,0.4000,0.0000,0.1500,0.2247
+"Joey Rickard","Baltimore Orioles",0.7391,0.1884,0.0000,0.0725,0.2685
+"Rene Rivera","New York Mets",0.7561,0.0976,0.0000,0.1463,0.2216
+"T. J. Rivera","New York Mets",0.7714,0.1143,0.0286,0.0857,0.3333
+"Yadiel Rivera","Milwaukee Brewers",0.7143,0.2857,0.0000,0.0000,0.2121
+"Anthony Rizzo","Chicago Cubs",0.5353,0.2529,0.0235,0.1882,0.2916
+"Tanner Roark","Washington Nationals",0.8750,0.1250,0.0000,0.0000,0.1250
+"Clint Robinson","Washington Nationals",0.8043,0.0870,0.0000,0.1087,0.2347
+"Shane Robinson","Los Angeles Angels of Anaheim",0.7647,0.1765,0.0000,0.0588,0.1735
+"Alex Rodriguez","New York Yankees",0.6444,0.1556,0.0000,0.2000,0.2000
+"Sean Rodriguez","Pittsburgh Pirates",0.5679,0.1975,0.0123,0.2222,0.2700
+"Miguel Rojas","Miami Marlins",0.7292,0.2500,0.0000,0.0208,0.2474
+"Jimmy Rollins","Chicago White Sox",0.6667,0.2424,0.0303,0.0606,0.2215
+"Andrew Romine","Detroit Tigers",0.7805,0.1220,0.0488,0.0488,0.2356
+"Austin Romine","New York Yankees",0.6250,0.2750,0.0000,0.1000,0.2424
+"Adam Rosales","San Diego Padres",0.4286,0.2449,0.0612,0.2653,0.2290
+"Alberto Rosario","St. Louis Cardinals",0.7143,0.2857,0.0000,0.0000,0.1842
+"Eddie Rosario","Minnesota Twins",0.6778,0.1889,0.0222,0.1111,0.2687
+"David Ross","Chicago Cubs",0.5789,0.1579,0.0000,0.2632,0.2289
+"Joe Ross","Washington Nationals",0.8000,0.2000,0.0000,0.0000,0.2439
+"Ryan Rua","Texas Rangers",0.7258,0.1290,0.0161,0.1290,0.2583
+"Darin Ruf","Philadelphia Phillies",0.7059,0.1176,0.0000,0.1765,0.2048
+"Carlos Ruiz","Philadelphia Phillies",0.7907,0.1395,0.0000,0.0698,0.2606
+"Carlos Ruiz","Los Angeles Dodgers",0.8000,0.2000,0.0000,0.0000,0.2778
+"Cameron Rupp","Philadelphia Phillies",0.5612,0.2653,0.0102,0.1633,0.2519
+"Addison Russell","Chicago Cubs",0.6080,0.2000,0.0240,0.1680,0.2381
+"Josh Rutledge","Boston Red Sox",0.5385,0.4615,0.0000,0.0000,0.2653
+"Tyler Saladino","Chicago White Sox",0.7381,0.1667,0.0000,0.0952,0.2819
+"Jarrod Saltalamacchia","Detroit Tigers",0.5714,0.1190,0.0238,0.2857,0.1707
+"Jeff Samardzija","San Francisco Giants",0.5000,0.5000,0.0000,0.0000,0.1563
+"Carlos Sanchez","Chicago White Sox",0.5625,0.2813,0.0313,0.1250,0.2078
+"Gary Sanchez","New York Yankees",0.4667,0.2000,0.0000,0.3333,0.2985
+"Hector Sanchez","San Diego Padres",0.6667,0.0833,0.0000,0.2500,0.2857
+"Jerry Sands","Chicago White Sox",0.9231,0.0000,0.0000,0.0769,0.2364
+"Miguel Sano","Minnesota Twins",0.5340,0.2136,0.0097,0.2427,0.2357
+"Carlos Santana","Cleveland Indians",0.5497,0.2053,0.0199,0.2252,0.2595
+"Danny Santana","Minnesota Twins",0.7500,0.1786,0.0357,0.0357,0.2403
+"Domingo Santana","Milwaukee Brewers",0.6032,0.2222,0.0000,0.1746,0.2561
+"Luis Sardinas","Seattle Mariners",0.8462,0.0000,0.0000,0.1538,0.1806
+"Luis Sardinas","San Diego Padres",0.7097,0.1935,0.0323,0.0645,0.2870
+"Michael Saunders","Toronto Blue Jays",0.5242,0.2581,0.0242,0.1935,0.2531
+"Logan Schafer","Minnesota Twins",0.7333,0.2000,0.0667,0.0000,0.2381
+"Scott Schebler","Cincinnati Reds",0.6618,0.1765,0.0294,0.1324,0.2646
+"Max Scherzer","Washington Nationals",0.9231,0.0769,0.0000,0.0000,0.1857
+"Ryan Schimpf","San Diego Padres",0.3000,0.2833,0.0833,0.3333,0.2174
+"Jonathan Schoop","Baltimore Orioles",0.6098,0.2317,0.0061,0.1524,0.2667
+"Xavier Scruggs","Miami Marlins",0.6923,0.2308,0.0000,0.0769,0.2097
+"Corey Seager","Los Angeles Dodgers",0.6321,0.2073,0.0259,0.1347,0.3078
+"Kyle Seager","Seattle Mariners",0.5843,0.2169,0.0181,0.1807,0.2781
+"Rob Segedin","Los Angeles Dodgers",0.7059,0.1176,0.0588,0.1176,0.2329
+"Jean Segura","Arizona Diamondbacks",0.6650,0.2020,0.0345,0.0985,0.3187
+"Steve Selsky","Cincinnati Reds",0.7500,0.1250,0.0000,0.1250,0.3137
+"Marcus Semien","Oakland Athletics",0.5852,0.2000,0.0148,0.2000,0.2377
+"Richie Shaffer","Tampa Bay Rays",0.4167,0.5000,0.0000,0.0833,0.2500
+"Travis Shaw","Boston Red Sox",0.5517,0.2931,0.0172,0.1379,0.2417
+"J. B. Shuck","Chicago White Sox",0.7609,0.1087,0.0435,0.0870,0.2054
+"Andrelton Simmons","Los Angeles Angels of Anaheim",0.7778,0.1746,0.0159,0.0317,0.2813
+"Mallex Smith","Atlanta Braves",0.6889,0.1556,0.0889,0.0667,0.2381
+"Seth Smith","Seattle Mariners",0.6702,0.1596,0.0000,0.1702,0.2487
+"Justin Smoak","Toronto Blue Jays",0.6308,0.1538,0.0000,0.2154,0.2174
+"Jake Smolinski","Oakland Athletics",0.7826,0.0870,0.0290,0.1014,0.2379
+"Brandon Snyder","Atlanta Braves",0.0909,0.4545,0.0909,0.3636,0.2391
+"Yangervis Solarte","San Diego Padres",0.6379,0.2241,0.0086,0.1293,0.2864
+"Jorge Soler","Chicago Cubs",0.6111,0.1667,0.0000,0.2222,0.2379
+"Geovany Soto","Los Angeles Angels of Anaheim",0.5714,0.2381,0.0000,0.1905,0.2692
+"Steven Souza","Tampa Bay Rays",0.6698,0.1604,0.0094,0.1604,0.2465
+"Denard Span","San Francisco Giants",0.7434,0.1513,0.0329,0.0724,0.2657
+"Cory Spangenberg","San Diego Padres",0.7273,0.0909,0.0909,0.0909,0.2292
+"George Springer","Houston Astros",0.6250,0.1726,0.0298,0.1726,0.2609
+"Giancarlo Stanton","Miami Marlins",0.5152,0.2020,0.0101,0.2727,0.2397
+"Chris Stewart","Pittsburgh Pirates",0.7619,0.1905,0.0000,0.0476,0.2143
+"Trevor Story","Colorado Rockies",0.4851,0.2079,0.0396,0.2673,0.2715
+"Dan Straily","Cincinnati Reds",1.0000,0.0000,0.0000,0.0000,0.0192
+"Stephen Strasburg","Washington Nationals",0.9000,0.1000,0.0000,0.0000,0.2083
+"Drew Stubbs","Atlanta Braves",0.8889,0.0000,0.0000,0.1111,0.2368
+"Eugenio Suarez","Cincinnati Reds",0.6571,0.1786,0.0143,0.1500,0.2478
+"Ichiro Suzuki","Miami Marlins",0.7789,0.1579,0.0526,0.0105,0.2905
+"Kurt Suzuki","Minnesota Twins",0.6292,0.2697,0.0112,0.0899,0.2580
+"Dansby Swanson","Atlanta Braves",0.7179,0.1795,0.0256,0.0769,0.3023
+"Blake Swihart","Boston Red Sox",0.8125,0.0000,0.1875,0.0000,0.2581
+"Noah Syndergaard","New York Mets",0.4545,0.2727,0.0000,0.2727,0.1897
+"Matt Szczur","Chicago Cubs",0.6875,0.1875,0.0208,0.1042,0.2595
+"Jameson Taillon","Pittsburgh Pirates",1.0000,0.0000,0.0000,0.0000,0.0938
+"Raimel Tapia","Colorado Rockies",1.0000,0.0000,0.0000,0.0000,0.2632
+"Chris Taylor","Los Angeles Dodgers",0.5833,0.1667,0.1667,0.0833,0.2069
+"Michael Taylor","Washington Nationals",0.6471,0.2157,0.0000,0.1373,0.2308
+"Julio Teheran","Atlanta Braves",0.9000,0.1000,0.0000,0.0000,0.2041
+"Mark Teixeira","New York Yankees",0.6076,0.2025,0.0000,0.1899,0.2041
+"Ruben Tejada","St. Louis Cardinals",0.6667,0.3333,0.0000,0.0000,0.1765
+"Ruben Tejada","San Francisco Giants",0.4000,0.6000,0.0000,0.0000,0.1563
+"Josh Thole","Toronto Blue Jays",0.8000,0.1500,0.0000,0.0500,0.1695
+"Trayce Thompson","Los Angeles Dodgers",0.5472,0.2075,0.0000,0.2453,0.2246
+"Andrew Toles","Los Angeles Dodgers",0.6061,0.2727,0.0303,0.0909,0.3143
+"Yasmany Tomas","Arizona Diamondbacks",0.5694,0.2083,0.0069,0.2153,0.2717
+"Kelby Tomlinson","San Francisco Giants",0.8710,0.1290,0.0000,0.0000,0.2925
+"Ronald Torreyes","New York Yankees",0.7000,0.1750,0.1000,0.0250,0.2581
+"Devon Travis","Toronto Blue Jays",0.6748,0.2276,0.0081,0.0894,0.3000
+"Mike Trout","Los Angeles Angels of Anaheim",0.6185,0.1850,0.0289,0.1676,0.3151
+"Mark Trumbo","Baltimore Orioles",0.5223,0.1720,0.0064,0.2994,0.2561
+"Preston Tucker","Houston Astros",0.4091,0.3636,0.0455,0.1818,0.1642
+"Troy Tulowitzki","Toronto Blue Jays",0.6400,0.1680,0.0000,0.1920,0.2541
+"Justin Turner","Los Angeles Dodgers",0.5817,0.2222,0.0196,0.1765,0.2752
+"Trea Turner","Washington Nationals",0.6667,0.1333,0.0762,0.1238,0.3420
+"Melvin Upton","San Diego Padres",0.6705,0.1250,0.0227,0.1818,0.2558
+"Melvin Upton","Toronto Blue Jays",0.6897,0.1379,0.0345,0.1379,0.1959
+"Justin Upton","Detroit Tigers",0.5643,0.2000,0.0143,0.2214,0.2456
+"Juan Uribe","Cleveland Indians",0.6735,0.1837,0.0000,0.1429,0.2059
+"Chase Utley","Los Angeles Dodgers",0.6667,0.2016,0.0233,0.1085,0.2520
+"Luis Valbuena","Houston Astros",0.5921,0.2237,0.0132,0.1711,0.2603
+"Danny Valencia","Oakland Athletics",0.7037,0.1630,0.0074,0.1259,0.2866
+"Scott Van Slyke","Los Angeles Dodgers",0.6957,0.2609,0.0000,0.0435,0.2255
+"Kennys Vargas","Minnesota Twins",0.4000,0.3143,0.0000,0.2857,0.2303
+"Christian Vazquez","Boston Red Sox",0.7179,0.2308,0.0256,0.0256,0.2267
+"Vince Velasquez","Philadelphia Phillies",0.8750,0.1250,0.0000,0.0000,0.2000
+"Jonathan Villar","Milwaukee Brewers",0.6429,0.2262,0.0179,0.1131,0.2852
+"Stephen Vogt","Oakland Athletics",0.6260,0.2439,0.0163,0.1138,0.2510
+"Joey Votto","Cincinnati Reds",0.6409,0.1878,0.0110,0.1602,0.3255
+"Michael Wacha","St. Louis Cardinals",1.0000,0.0000,0.0000,0.0000,0.0256
+"Adam Wainwright","St. Louis Cardinals",0.2308,0.5385,0.0769,0.1538,0.2097
+"Neil Walker","New York Mets",0.7155,0.0776,0.0086,0.1983,0.2816
+"Brett Wallace","San Diego Padres",0.6098,0.2439,0.0000,0.1463,0.1889
+"Colin Walsh","Milwaukee Brewers",0.7500,0.2500,0.0000,0.0000,0.0851
+"Jemile Weeks","San Diego Padres",0.7143,0.1429,0.1429,0.0000,0.1400
+"Rickie Weeks","Arizona Diamondbacks",0.5581,0.2093,0.0233,0.2093,0.2389
+"Joey Wendle","Oakland Athletics",0.9200,0.0400,0.0000,0.0400,0.2604
+"Jayson Werth","Washington Nationals",0.6172,0.2188,0.0000,0.1641,0.2438
+"Tyler White","Houston Astros",0.5556,0.2963,0.0000,0.1481,0.2169
+"Matt Wieters","Baltimore Orioles",0.6602,0.1650,0.0097,0.1650,0.2435
+"Mac Williamson","San Francisco Giants",0.6400,0.1200,0.0000,0.2400,0.2232
+"Bobby Wilson","Texas Rangers",0.7813,0.1250,0.0000,0.0938,0.2500
+"Bobby Wilson","Tampa Bay Rays",0.7000,0.1000,0.0000,0.2000,0.2299
+"Matt Wisler","Atlanta Braves",1.0000,0.0000,0.0000,0.0000,0.1522
+"Tony Wolters","Colorado Rockies",0.6226,0.2830,0.0377,0.0566,0.2585
+"Kolten Wong","St. Louis Cardinals",0.7467,0.0933,0.0933,0.0667,0.2396
+"Danny Worth","Houston Astros",0.7143,0.2857,0.0000,0.0000,0.1795
+"David Wright","New York Mets",0.5161,0.2581,0.0000,0.2258,0.2263
+"Christian Yelich","Miami Marlins",0.6395,0.2209,0.0174,0.1221,0.2976
+"Chris Young","Boston Red Sox",0.5179,0.3214,0.0000,0.1607,0.2759
+"Ryan Zimmerman","Washington Nationals",0.6344,0.1935,0.0108,0.1613,0.2178
+"Ben Zobrist","Chicago Cubs",0.6338,0.2183,0.0211,0.1268,0.2715
+"Mike Zunino","Seattle Mariners",0.4412,0.2059,0.0000,0.3529,0.2073
