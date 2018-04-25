@@ -1,5 +1,9 @@
+import csv
+
+from numpy.random import choice
+
 class Batter:
-	def __init__(self, BA, name, singles_avg, doubles_avg, triples_avg, HR_avg):
+	def __init__(self, name, singles_avg, doubles_avg, triples_avg, HR_avg, BA):
 		self.BA = BA
 		self.name = name
 		self.singles_avg = singles_avg
@@ -17,17 +21,38 @@ def get_true_BA(Batter, Pitcher):
 	print "test"
 
 def determine_event(Batter, Pitcher):
-	# Determine whether hit or no hit, and then 
-	# determine event based on weights
-	# returns event code
-	print "test"
+	# Get true batting average
+	true_BA = get_true_BA(Batter, Pitcher)
+	hit = choice([0, 1], p=[1-BA, BA])
 
-def build_team():
+	if hit:
+		return choice(["single", "double", "triple", "Home Run"], p=[Batter.singles_avg, Batter.doubles_avg, Batter.triples_avg, Batter.HR_avg])
+	else:
+		return 0
+
+def build_team(team_name):
 	# List options of players to choose from
 	# set team based on that... 
 	print "test"
 
-def get_pitcher()
+def get_pitcher(name):
+	f = open("pitching.csv")
+	csv_f = open csv.reader(f)
+
+	for row in csv_f:
+		if row[0] == name:
+			# probably will change
+			return Pitcher(name, row[0])
+
+
+def get_batter(name):
+	# instantiates batter from CSV file
+	f = open("batting.csv")
+	csv_f = csv.reader(f)
+
+	for row in csv_f:
+		if row[0] == name:
+			return Batter(name, row[2], row[3], row[4], row[5], row[6])
 
 def simulate():
 	bases = []
@@ -35,9 +60,10 @@ def simulate():
 	away_team_names = []
 	home_score = 0
 	away_score = 0
-	# instantiate pitcher
+	#instantiate pitcher
 	# for each inning
 		# loop through each player in team
+			# account for 3 strikes
 			# instantiate batter
 			# determine event
 			# if event is single
