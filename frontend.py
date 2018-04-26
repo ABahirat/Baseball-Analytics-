@@ -1,4 +1,5 @@
 import tkinter as tk
+import Simulation
 from tkinter.ttk import *
 import csv
 
@@ -147,6 +148,7 @@ def doCalculate():
     print("Batters: " + simAwayBatters)
     print("Pitcher: " + awayPitcher.get())
     #do the main logic and start the backend
+    print(Simulation.simulate())
 
 def doExit():
     quit()
