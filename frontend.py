@@ -148,7 +148,7 @@ def doCalculate():
     print("Batters: " + simAwayBatters)
     print("Pitcher: " + awayPitcher.get())
     #do the main logic and start the backend
-    print(Simulation.simulate())
+    print(Simulation.simulate(homeBatters, awayBatters, awayPitcher.get(), homePitcher.get()))
 
 def doExit():
     quit()
