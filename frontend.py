@@ -134,7 +134,7 @@ def doCalculate():
     homeBatters = []
     for val in homeBatterValues:
         simHomeBatters += val.get() + ", "
-        homeBatters += val.get()
+        homeBatters.append(val.get())
     simHomeBatters = simHomeBatters[:-2]
     print("Batters: " + simHomeBatters)
     print("Pitcher: " + homePitcher.get())
@@ -143,12 +143,22 @@ def doCalculate():
     awayBatters = []
     for val in awayBatterValues:
         simAwayBatters += val.get() + ", "
-        awayBatters += val.get()
+        awayBatters.append(val.get())
     simAwayBatters = simAwayBatters[:-2]
     print("Batters: " + simAwayBatters)
     print("Pitcher: " + awayPitcher.get())
     #do the main logic and start the backend
-    print(Simulation.simulate(homeBatters, awayBatters, awayPitcher.get(), homePitcher.get()))
+    homeWins = 0
+    awayWins = 0
+    for i in range(0,101):
+        results = Simulation.simulate(homeBatters, awayBatters, awayPitcher.get(), homePitcher.get())
+        print(results)
+        if results[0] > results[1]:
+            homeWins += 1
+        else:
+            awayWins += 1
+    SWP = float(homeWins) / float(homeWins+awayWins)
+    print(SWP)
 
 def doExit():
     quit()
