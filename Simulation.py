@@ -19,7 +19,7 @@ class Pitcher:
 
 def get_true_BA(Batter, Pitcher):
 
-        return Batter.BA + Pitcher.DASP
+        return (Batter.BA + Pitcher.DASP) * (0.5) #roughly account for ground-outs by universally reducing BA
 
 def determine_event(Batter, Pitcher):
         # Get true batting average
@@ -58,7 +58,9 @@ def simulate(home_batters, away_batters, away_pitcher, home_pitcher):
         away_score = 0
         away_pitcher = get_pitcher(away_pitcher)
         home_pitcher = get_pitcher(home_pitcher)
-        for i in range(0,9):
+        i = 0
+        while i < 9 or home_score == away_score:
+                i += 1
                 batterCount = 0
                 outs = 0
                 bases = [None,None,None]
