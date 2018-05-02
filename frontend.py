@@ -163,13 +163,20 @@ def doCalculate():
 def doExit():
     quit()
 
+def doBulkWP():
+    home_team = homeTeam.get()
+    away_team = awayTeam.get()
+
+    Simulation.bulk_win_percentage(home_team, away_team, teamBatters, teamPitchers)
+
 startButton = tk.Button(window,text="Calculate",command=doCalculate)
 startButton.grid(column=1,row=15)
 
 exitButton = tk.Button(window,text="Exit",command=doExit)
 exitButton.grid(column=3,row=15)
 
-#combobox logic
+bulkWP = tk.Button(window,text="Calculate Bulk WP",command=doBulkWP)
+bulkWP.grid(column=2,row=15)
 
 
 

@@ -150,6 +150,24 @@ def simulate(home_batters, away_batters, away_pitcher, home_pitcher):
                 #print("End of inning " + str(i+1) + " HOME " + str(home_score) + " AWAY " + str(away_score))
         return (home_score, away_score)
 
+def bulk_win_percentage(home_team, away_team, team_batters, team_pitchers):
+        # functon that will bulk one team against another, randomizing pitchers and randomizing batter
+        
+        # loop through this 100-1000 times
+        home_batters = team_batters[home_team]
+        away_batters = team_batters[away_team]
+
+        home_batters = random.sample(home_batters, 9)
+        away_batters = random.sample(away_batters, 9)
+
+        home_pitchers = team_pitchers[home_team]
+        away_pitchers = team_pitchers[away_team]
+
+        home_pitcher = random.sample(home_pitchers, 1)
+        away_pitcher = random.sample(away_pitchers, 1)
+
+        simulate(home_batters, away_batters, away_pitcher[0], home_pitcher[0])
+
 def main():
         home_batters = ["Nick Ahmed", "Michael Bourn", "Archie Bradley", "Socrates Brito", "Welington Castillo", "Patrick Corbin", "Brandon Drury", "Paul Goldschmidt", "Tuffy Gosewisch"]
         home_pitcher = "Jake Barrett"
