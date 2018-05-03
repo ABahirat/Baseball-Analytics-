@@ -190,11 +190,12 @@ def bulk_win_percentage(home_team, away_team, team_batters, team_pitchers):
                         awayWins += 1
 
         SWP = float(homeWins) / float(homeWins+awayWins)
-        print(SWP)
-        teams_WP = open("teams_WP.csv", "rb")
+        print("SWP = " + str(SWP))
+        teams_WP = open("teams_WP.csv")
         csv_f = csv.reader(teams_WP)
-
-        AWP = 
+        for row in csv_f:
+            if row[0] == home_team and row[1] == away_team:
+                print("AWP = " + str(row[2]))
 
         #x = np.random.normal(size = 1000)
         plt.hist(home_score_list, bins=30)
