@@ -2,6 +2,9 @@ import tkinter as tk
 import Simulation
 from tkinter.ttk import *
 import csv
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
 
 possibleTeams = []
 teamBatters = {}
@@ -129,6 +132,7 @@ selectAwayTeam(awayTeamCombo)
 
 #buttons
 def doCalculate():
+    homeScoreList = []
     print("=== HOME TEAM ===")
     simHomeBatters = ""
     homeBatters = []
@@ -153,12 +157,19 @@ def doCalculate():
     for i in range(0,101):
         results = Simulation.simulate(homeBatters, awayBatters, awayPitcher.get(), homePitcher.get())
         print(results)
+        homeScoreList.append(results[0])
         if results[0] > results[1]:
             homeWins += 1
         else:
             awayWins += 1
     SWP = float(homeWins) / float(homeWins+awayWins)
     print(SWP)
+
+    plt.hist(homeScoreList, bins=30)
+    plt.ylabel('Games')
+    plt.xlabel("Runs Scored")
+    plt.title("Run expectancy for home team")
+    plt.show()
 
 def doExit():
     quit()

@@ -1,0 +1,7 @@
+use retrosheet;
+
+select HOME_TEAM_ID, AWAY_TEAM_ID, avg(HOME_SCORE_CT > AWAY_SCORE_CT)
+from games group by HOME_TEAM_ID, AWAY_TEAM_ID;
+
+select HOME_TEAM_ID, AWAY_TEAM_ID, avg(HOME_SCORE_CT/ (AWAY_SCORE_CT+HOME_SCORE_CT))
+from games group by HOME_TEAM_ID, AWAY_TEAM_ID;

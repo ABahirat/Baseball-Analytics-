@@ -1,4 +1,9 @@
 import csv
+import random
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt
+import numpy as np
 
 from numpy.random import choice
 
@@ -19,7 +24,7 @@ class Pitcher:
 
 def get_true_BA(Batter, Pitcher):
 
-        return (Batter.BA + Pitcher.DASP) * (0.5) #roughly account for ground-outs by universally reducing BA
+        return (max(Batter.BA + Pitcher.DASP,0)) * (0.5) #roughly account for ground-outs by universally reducing BA
 
 def determine_event(Batter, Pitcher):
         # Get true batting average
@@ -153,20 +158,48 @@ def simulate(home_batters, away_batters, away_pitcher, home_pitcher):
 def bulk_win_percentage(home_team, away_team, team_batters, team_pitchers):
         # functon that will bulk one team against another, randomizing pitchers and randomizing batter
         
-        # loop through this 100-1000 times
-        home_batters = team_batters[home_team]
-        away_batters = team_batters[away_team]
+        #TODO: 
+        # Run expectancy for bulk calculation
+            # Number of games to runs
+        # Win expectancy for bulk calculation vs team matchup win expectancy in lahman
+        # Run expectancy for individual game 
+        homeWins = 0
+        awayWins = 0
+        home_score_list = []
+        away_score_list = []
+        for i in range(0, 100):
+                home_batters = team_batters[home_team]
+                away_batters = team_batters[away_team]
 
-        home_batters = random.sample(home_batters, 9)
-        away_batters = random.sample(away_batters, 9)
+                home_batters = random.sample(home_batters, 9)
+                away_batters = random.sample(away_batters, 9)
 
-        home_pitchers = team_pitchers[home_team]
-        away_pitchers = team_pitchers[away_team]
+                home_pitchers = team_pitchers[home_team]
+                away_pitchers = team_pitchers[away_team]
 
-        home_pitcher = random.sample(home_pitchers, 1)
-        away_pitcher = random.sample(away_pitchers, 1)
+                home_pitcher = random.sample(home_pitchers, 1)
+                away_pitcher = random.sample(away_pitchers, 1)
 
-        simulate(home_batters, away_batters, away_pitcher[0], home_pitcher[0])
+                results = simulate(home_batters, away_batters, away_pitcher[0], home_pitcher[0])
+                home_score_list.append(results[0])
+                away_score_list.append(results[1])
+
+                if results[0] > results[1]:
+                        homeWins += 1
+                else:
+                        awayWins += 1
+
+        SWP = float(homeWins) / float(homeWins+awayWins)
+        print(SWP)
+
+        #x = np.random.normal(size = 1000)
+        plt.hist(home_score_list, bins=30)
+        plt.ylabel('Games')
+        plt.xlabel("Runs Scored")
+        plt.title("Run expectancy for home team")
+        plt.show()
+
+
 
 def main():
         home_batters = ["Nick Ahmed", "Michael Bourn", "Archie Bradley", "Socrates Brito", "Welington Castillo", "Patrick Corbin", "Brandon Drury", "Paul Goldschmidt", "Tuffy Gosewisch"]
