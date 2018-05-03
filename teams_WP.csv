@@ -1,733 +1,1001 @@
-HOME_TEAM_ID,AWAY_TEAM_ID,"avg(HOME_SCORE_CT > AWAY_SCORE_CT)"
-ANA,ARI,0.6667
-ANA,ATL,0.6667
-ANA,BAL,0.5294
-ANA,BOS,0.3846
-ANA,CHA,0.5294
-ANA,CHN,0.5000
-ANA,CLE,0.5000
-ANA,COL,0.6667
-ANA,DET,0.7692
-ANA,HOU,0.3000
-ANA,KCA,0.5000
-ANA,LAN,0.7273
-ANA,MIL,0.3333
-ANA,MIN,0.5625
-ANA,NYA,0.6000
-ANA,OAK,0.5000
-ANA,PIT,0.0000
-ANA,SEA,0.7105
-ANA,SFN,0.6667
-ANA,SLN,0.6667
-ANA,TBA,0.2500
-ANA,TEX,0.4595
-ANA,TOR,0.5882
-ANA,WAS,1.0000
-ARI,ATL,0.5385
-ARI,BAL,1.0000
-ARI,CHA,0.3333
-ARI,CHN,0.5294
-ARI,CIN,0.3333
-ARI,CLE,0.3333
-ARI,COL,0.7297
-ARI,FLO,0.5714
-ARI,HOU,0.7000
-ARI,LAN,0.4595
-ARI,MIA,0.5714
-ARI,MIL,0.5625
-ARI,MIN,1.0000
-ARI,NYA,0.3333
-ARI,NYN,0.6923
-ARI,OAK,1.0000
-ARI,PHI,0.5385
-ARI,PIT,0.5000
-ARI,SDN,0.5833
-ARI,SEA,0.6667
-ARI,SFN,0.4167
-ARI,SLN,0.4000
-ARI,TBA,1.0000
-ARI,TEX,1.0000
-ARI,TOR,0.5000
-ARI,WAS,0.4286
-ATL,ARI,0.8333
-ATL,BAL,0.5000
-ATL,CHN,0.6154
-ATL,CIN,0.6364
-ATL,CLE,1.0000
-ATL,COL,0.8667
-ATL,DET,0.6667
-ATL,FLO,0.6667
-ATL,HOU,0.8750
-ATL,KCA,0.8000
-ATL,LAN,0.6000
-ATL,MIA,0.6667
-ATL,MIL,0.7143
-ATL,MIN,1.0000
-ATL,NYA,0.0000
-ATL,NYN,0.5946
-ATL,PHI,0.5405
-ATL,PIT,0.7143
-ATL,SDN,0.5385
-ATL,SFN,0.5625
-ATL,SLN,0.5714
-ATL,TBA,0.6667
-ATL,TEX,0.3333
-ATL,TOR,0.7500
-ATL,WAS,0.5405
-BAL,ANA,0.5714
-BAL,BOS,0.5946
-BAL,CHA,0.6250
-BAL,CIN,0.6667
-BAL,CLE,0.4000
-BAL,COL,0.6667
-BAL,DET,0.5625
-BAL,FLO,0.3333
-BAL,HOU,0.6667
-BAL,KCA,0.6000
-BAL,LAN,0.6667
-BAL,MIN,0.5000
-BAL,NYA,0.4103
-BAL,NYN,0.0000
-BAL,OAK,0.5556
-BAL,PHI,0.6667
-BAL,PIT,1.0000
-BAL,SDN,0.0000
-BAL,SEA,0.6667
-BAL,SLN,0.0000
-BAL,TBA,0.4167
-BAL,TEX,0.4000
-BAL,TOR,0.5278
-BAL,WAS,0.8182
-BOS,ANA,0.5882
-BOS,ARI,0.8333
-BOS,ATL,0.6667
-BOS,BAL,0.4722
-BOS,CHA,0.4615
-BOS,CHN,0.6667
-BOS,CLE,0.6250
-BOS,COL,1.0000
-BOS,DET,0.7222
-BOS,HOU,1.0000
-BOS,KCA,0.5333
-BOS,LAN,1.0000
-BOS,MIA,1.0000
-BOS,MIL,0.6667
-BOS,MIN,0.5000
-BOS,NYA,0.4722
-BOS,OAK,0.6667
-BOS,PHI,0.6000
-BOS,SDN,0.6667
-BOS,SEA,0.7857
-BOS,SLN,0.6667
-BOS,TBA,0.4359
-BOS,TEX,0.3889
-BOS,TOR,0.5135
-BOS,WAS,0.0000
-CHA,ANA,0.4667
-CHA,ATL,0.8333
-CHA,BAL,0.4286
-CHA,BOS,0.5000
-CHA,CHN,0.4545
-CHA,CLE,0.4054
-CHA,DET,0.4054
-CHA,FLO,0.6667
-CHA,HOU,0.5000
-CHA,KCA,0.4595
-CHA,LAN,0.6667
-CHA,MIA,1.0000
-CHA,MIL,0.6667
-CHA,MIN,0.4167
-CHA,NYA,0.5385
-CHA,NYN,0.5000
-CHA,OAK,0.5882
-CHA,SEA,0.8421
-CHA,TBA,0.4667
-CHA,TEX,0.6429
-CHA,TOR,0.5000
-CHA,WAS,0.3333
-CHN,ANA,0.4000
-CHN,ARI,0.6923
-CHN,ATL,0.3846
-CHN,BOS,0.3333
-CHN,CHA,0.3636
-CHN,CIN,0.2500
-CHN,COL,0.6364
-CHN,DET,0.3333
-CHN,FLO,0.2857
-CHN,HOU,0.5333
-CHN,LAN,0.3846
-CHN,MIA,0.5000
-CHN,MIL,0.4333
-CHN,NYA,0.3333
-CHN,NYN,0.5833
-CHN,OAK,0.6667
-CHN,PHI,0.5000
-CHN,PIT,0.4118
-CHN,SDN,0.5000
-CHN,SFN,0.3750
-CHN,SLN,0.4848
-CHN,TEX,0.6667
-CHN,WAS,0.3846
-CIN,ANA,0.6667
-CIN,ARI,0.5333
-CIN,ATL,0.6923
-CIN,CHN,0.6667
-CIN,CLE,0.7273
-CIN,COL,0.5385
-CIN,DET,0.3333
-CIN,FLO,0.6667
-CIN,HOU,0.6190
-CIN,KCA,0.3333
-CIN,LAN,0.5333
-CIN,MIA,0.7143
-CIN,MIL,0.7143
-CIN,MIN,0.3333
-CIN,NYA,0.3333
-CIN,NYN,0.3846
-CIN,OAK,1.0000
-CIN,PHI,0.4286
-CIN,PIT,0.5000
-CIN,SDN,0.6154
-CIN,SEA,0.3333
-CIN,SFN,0.5882
-CIN,SLN,0.5294
-CIN,TOR,0.3333
-CIN,WAS,0.6154
-CLE,ANA,0.5333
-CLE,BAL,0.5385
-CLE,BOS,0.4706
-CLE,CHA,0.5000
-CLE,CIN,0.8182
-CLE,COL,0.3333
-CLE,DET,0.5405
-CLE,HOU,1.0000
-CLE,KCA,0.5833
-CLE,MIA,0.3333
-CLE,MIN,0.5000
-CLE,NYA,0.3571
-CLE,NYN,0.3333
-CLE,OAK,0.5000
-CLE,PHI,1.0000
-CLE,PIT,0.6667
-CLE,SEA,0.6000
-CLE,TBA,0.3571
-CLE,TEX,0.4375
-CLE,TOR,0.4706
-CLE,WAS,0.6667
-COL,ANA,0.0000
-COL,ARI,0.5278
-COL,ATL,0.4615
-COL,BOS,0.6000
-COL,CHA,0.3333
-COL,CHN,0.8333
-COL,CIN,0.6154
-COL,DET,0.6667
-COL,FLO,0.6667
-COL,HOU,0.6154
-COL,KCA,0.6667
-COL,LAN,0.5278
-COL,MIA,0.3750
-COL,MIL,0.6875
-COL,NYA,0.3333
-COL,NYN,0.5385
-COL,OAK,0.0000
-COL,PHI,0.3333
-COL,PIT,0.5000
-COL,SDN,0.5405
-COL,SEA,0.0000
-COL,SFN,0.4595
-COL,SLN,0.5385
-COL,TBA,0.3333
-COL,TOR,1.0000
-COL,WAS,0.5333
-DET,ANA,0.5500
-DET,ARI,0.6667
-DET,ATL,1.0000
-DET,BAL,0.5000
-DET,BOS,0.5882
-DET,CHA,0.6944
-DET,CLE,0.7500
-DET,COL,0.6667
-DET,HOU,0.6667
-DET,KCA,0.6486
-DET,MIN,0.6216
-DET,NYA,0.6364
-DET,NYN,0.3333
-DET,OAK,0.4706
-DET,PHI,1.0000
-DET,PIT,0.7500
-DET,SEA,0.4118
-DET,SFN,0.2000
-DET,SLN,0.6667
-DET,TBA,0.6667
-DET,TEX,0.5263
-DET,TOR,0.6667
-DET,WAS,1.0000
-FLO,ANA,0.3333
-FLO,ARI,0.3333
-FLO,ATL,0.3889
-FLO,CHN,0.0000
-FLO,CIN,0.4286
-FLO,COL,0.7143
-FLO,HOU,0.8571
-FLO,LAN,0.6667
-FLO,MIL,0.3750
-FLO,NYN,0.6667
-FLO,PHI,0.2778
-FLO,PIT,0.8571
-FLO,SDN,0.1111
-FLO,SEA,0.3333
-FLO,SFN,0.1667
-FLO,SLN,0.2857
-FLO,TBA,0.6667
-FLO,TEX,0.0000
-FLO,WAS,0.5556
-HOU,ANA,0.3333
-HOU,ARI,0.1000
-HOU,ATL,0.3000
-HOU,BAL,0.3333
-HOU,BOS,0.1667
-HOU,CHA,0.7500
-HOU,CHN,0.5714
-HOU,CIN,0.2963
-HOU,CLE,0.5000
-HOU,COL,0.5455
-HOU,DET,0.0000
-HOU,FLO,0.5000
-HOU,KCA,0.5000
-HOU,LAN,0.5000
-HOU,MIA,0.3333
-HOU,MIL,0.5385
-HOU,MIN,0.3333
-HOU,NYA,0.0000
-HOU,NYN,0.6000
-HOU,OAK,0.1111
-HOU,PHI,0.5000
-HOU,PIT,0.6400
-HOU,SDN,0.4545
-HOU,SEA,0.3000
-HOU,SFN,0.3333
-HOU,SLN,0.4615
-HOU,TBA,0.2000
-HOU,TEX,0.1579
-HOU,TOR,0.6667
-HOU,WAS,0.4545
-KCA,ANA,0.3889
-KCA,ARI,0.1667
-KCA,ATL,0.5000
-KCA,BAL,0.6250
-KCA,BOS,0.5000
-KCA,CHA,0.5833
-KCA,CHN,0.6667
-KCA,CLE,0.4865
-KCA,COL,0.3333
-KCA,DET,0.4722
-KCA,HOU,0.8333
-KCA,MIA,0.3333
-KCA,MIL,1.0000
-KCA,MIN,0.5000
-KCA,NYA,0.3571
-KCA,OAK,0.4444
-KCA,SEA,0.5333
-KCA,SLN,0.2727
-KCA,TBA,0.7692
-KCA,TEX,0.4118
-KCA,TOR,0.3571
-KCA,WAS,0.3333
-LAN,ANA,0.3636
-LAN,ARI,0.4444
-LAN,ATL,0.5882
-LAN,BOS,0.3333
-LAN,CHA,0.6667
-LAN,CHN,0.6923
-LAN,CIN,0.4615
-LAN,COL,0.5946
-LAN,DET,0.6667
-LAN,FLO,0.5000
-LAN,HOU,0.7273
-LAN,MIA,0.6667
-LAN,MIL,0.3333
-LAN,NYA,0.4000
-LAN,NYN,0.5333
-LAN,PHI,0.3846
-LAN,PIT,0.8571
-LAN,SDN,0.5833
-LAN,SFN,0.4865
-LAN,SLN,0.6000
-LAN,TBA,1.0000
-LAN,WAS,0.7500
-MIA,ARI,0.2857
-MIA,ATL,0.2105
-MIA,BOS,0.3333
-MIA,CHN,0.5714
-MIA,CIN,0.3333
-MIA,CLE,0.3333
-MIA,COL,0.5000
-MIA,DET,1.0000
-MIA,HOU,0.6667
-MIA,LAN,0.2857
-MIA,MIL,0.4286
-MIA,MIN,1.0000
-MIA,NYN,0.5789
-MIA,PHI,0.5000
-MIA,PIT,0.6000
-MIA,SDN,0.7143
-MIA,SFN,0.4286
-MIA,SLN,0.4286
-MIA,TBA,0.0000
-MIA,TOR,0.3333
-MIA,WAS,0.5556
-MIL,ANA,0.0000
-MIL,ARI,0.4375
-MIL,ATL,0.6154
-MIL,CHN,0.6757
-MIL,CIN,0.5517
-MIL,COL,0.5714
-MIL,FLO,0.8571
-MIL,HOU,0.7083
-MIL,LAN,0.4615
-MIL,MIA,0.7143
-MIL,MIN,0.6364
-MIL,NYN,0.5000
-MIL,OAK,0.3333
-MIL,PHI,0.4000
-MIL,PIT,0.6944
-MIL,SDN,0.5625
-MIL,SEA,0.6667
-MIL,SFN,0.4615
-MIL,SLN,0.4118
-MIL,TBA,0.3333
-MIL,TEX,0.4000
-MIL,TOR,0.6667
-MIL,WAS,0.6154
-MIN,ANA,0.6000
-MIN,ATL,0.3333
-MIN,BAL,0.3333
-MIN,BOS,0.2500
-MIN,CHA,0.4324
-MIN,CHN,0.6667
-MIN,CLE,0.5135
-MIN,COL,0.6667
-MIN,DET,0.4167
-MIN,HOU,1.0000
-MIN,KCA,0.5405
-MIN,LAN,0.6667
-MIN,MIA,0.5000
-MIN,MIL,0.6364
-MIN,NYA,0.1875
-MIN,NYN,0.0000
-MIN,OAK,0.5000
-MIN,PHI,0.5000
-MIN,SDN,1.0000
-MIN,SEA,0.5000
-MIN,TBA,0.2500
-MIN,TEX,0.6471
-MIN,TOR,0.2143
-NYA,ANA,0.6667
-NYA,ARI,0.6667
-NYA,ATL,0.3333
-NYA,BAL,0.6410
-NYA,BOS,0.4054
-NYA,CHA,0.6429
-NYA,CIN,0.3333
-NYA,CLE,0.8571
-NYA,COL,0.6667
-NYA,DET,0.5556
-NYA,HOU,0.8333
-NYA,KCA,0.5714
-NYA,LAN,0.5000
-NYA,MIL,1.0000
-NYA,MIN,0.6000
-NYA,NYN,0.6364
-NYA,OAK,0.6250
-NYA,PHI,0.3333
-NYA,SEA,0.5556
-NYA,SFN,0.6667
-NYA,TBA,0.5135
-NYA,TEX,0.6842
-NYA,TOR,0.7838
-NYN,ANA,0.3333
-NYN,ARI,0.6154
-NYN,ATL,0.4444
-NYN,BAL,1.0000
-NYN,CHA,0.5000
-NYN,CHN,0.4615
-NYN,CIN,0.2143
-NYN,COL,0.3571
-NYN,DET,0.3333
-NYN,FLO,0.5000
-NYN,HOU,0.5556
-NYN,KCA,0.3333
-NYN,LAN,0.5000
-NYN,MIA,0.6667
-NYN,MIL,0.2308
-NYN,MIN,0.6667
-NYN,NYA,0.5455
-NYN,OAK,0.6667
-NYN,PHI,0.4324
-NYN,PIT,0.6250
-NYN,SDN,0.6429
-NYN,SFN,0.3846
-NYN,SLN,0.6154
-NYN,WAS,0.2973
-OAK,ANA,0.5526
-OAK,ARI,0.6667
-OAK,BAL,0.6471
-OAK,BOS,0.7647
-OAK,CHA,0.6667
-OAK,CHN,0.6667
-OAK,CIN,0.4000
-OAK,CLE,0.6000
-OAK,DET,0.4348
-OAK,FLO,0.3333
-OAK,HOU,0.7000
-OAK,KCA,0.6667
-OAK,LAN,1.0000
-OAK,MIN,0.6000
-OAK,NYA,0.4211
-OAK,PIT,1.0000
-OAK,SDN,0.6667
-OAK,SEA,0.5789
-OAK,SFN,0.8182
-OAK,SLN,0.6667
-OAK,TBA,0.6471
-OAK,TEX,0.5263
-OAK,TOR,0.5000
-PHI,ARI,0.7500
-PHI,ATL,0.5278
-PHI,BOS,0.4545
-PHI,CHA,0.6667
-PHI,CHN,0.6154
-PHI,CIN,0.7647
-PHI,CLE,0.8000
-PHI,COL,0.8125
-PHI,FLO,0.6667
-PHI,HOU,0.5556
-PHI,KCA,0.3333
-PHI,LAN,0.3846
-PHI,MIA,0.6842
-PHI,MIL,0.5833
-PHI,MIN,0.3333
-PHI,NYN,0.4444
-PHI,OAK,0.6667
-PHI,PIT,0.5385
-PHI,SDN,0.6429
-PHI,SFN,0.4000
-PHI,SLN,0.5000
-PHI,TBA,0.3333
-PHI,TEX,0.6667
-PHI,WAS,0.5946
-PIT,ARI,0.6154
-PIT,ATL,0.5333
-PIT,BAL,0.6667
-PIT,BOS,0.6667
-PIT,CHA,0.0000
-PIT,CHN,0.5625
-PIT,CIN,0.5135
-PIT,CLE,0.6667
-PIT,COL,0.5000
-PIT,DET,0.7500
-PIT,FLO,0.1429
-PIT,HOU,0.7143
-PIT,KCA,1.0000
-PIT,LAN,0.4286
-PIT,MIA,1.0000
-PIT,MIL,0.4194
-PIT,MIN,0.6667
-PIT,NYN,0.4615
-PIT,OAK,0.3333
-PIT,PHI,0.6154
-PIT,SDN,0.1538
-PIT,SEA,0.5000
-PIT,SFN,0.5000
-PIT,SLN,0.5556
-PIT,WAS,0.5000
-SDN,ANA,0.6667
-SDN,ARI,0.6757
-SDN,ATL,0.6000
-SDN,BAL,0.4000
-SDN,CHN,0.6154
-SDN,CIN,0.4615
-SDN,COL,0.4167
-SDN,FLO,0.7143
-SDN,HOU,0.7500
-SDN,KCA,1.0000
-SDN,LAN,0.4054
-SDN,MIA,0.5000
-SDN,MIL,0.5833
-SDN,NYA,0.6667
-SDN,NYN,0.5385
-SDN,PHI,0.2143
-SDN,PIT,0.6667
-SDN,SEA,0.4545
-SDN,SFN,0.4595
-SDN,SLN,0.5833
-SDN,TEX,0.0000
-SDN,TOR,0.5000
-SDN,WAS,0.4286
-SEA,ANA,0.4211
-SEA,ATL,0.0000
-SEA,BAL,0.5333
-SEA,BOS,0.4286
-SEA,CHA,0.2667
-SEA,CHN,0.5000
-SEA,CIN,1.0000
-SEA,CLE,0.5000
-SEA,DET,0.5714
-SEA,HOU,0.3333
-SEA,KCA,0.5882
-SEA,LAN,0.3333
-SEA,MIL,0.3333
-SEA,MIN,0.6316
-SEA,NYA,0.3529
-SEA,OAK,0.4737
-SEA,PHI,0.6667
-SEA,PIT,0.0000
-SEA,SDN,0.3636
-SEA,SFN,0.6667
-SEA,TBA,0.5000
-SEA,TEX,0.3684
-SEA,TOR,0.5714
-SFN,ARI,0.5946
-SFN,ATL,0.5000
-SFN,BAL,0.5000
-SFN,BOS,0.3333
-SFN,CHN,0.5714
-SFN,CIN,0.3750
-SFN,CLE,1.0000
-SFN,COL,0.7222
-SFN,DET,1.0000
-SFN,FLO,0.2857
-SFN,HOU,0.7692
-SFN,LAN,0.5833
-SFN,MIA,0.1429
-SFN,MIL,0.5385
-SFN,MIN,0.6667
-SFN,NYN,0.4286
-SFN,OAK,0.8182
-SFN,PHI,0.5000
-SFN,PIT,0.5385
-SFN,SDN,0.5833
-SFN,SLN,0.6000
-SFN,TEX,0.6000
-SFN,TOR,0.5000
-SFN,WAS,0.5833
-SLN,ANA,0.6667
-SLN,ARI,0.5714
-SLN,ATL,0.7143
-SLN,BOS,0.3333
-SLN,CHA,0.6667
-SLN,CHN,0.6364
-SLN,CIN,0.6364
-SLN,CLE,0.3333
-SLN,COL,0.7857
-SLN,FLO,0.5000
-SLN,HOU,0.6522
-SLN,KCA,0.5000
-SLN,LAN,0.6111
-SLN,MIA,0.8333
-SLN,MIL,0.5897
-SLN,NYN,0.6923
-SLN,OAK,0.6667
-SLN,PHI,0.6111
-SLN,PIT,0.6176
-SLN,SDN,0.6923
-SLN,SEA,0.6667
-SLN,SFN,0.5294
-SLN,TEX,0.4286
-SLN,TOR,0.0000
-SLN,WAS,0.7692
-TBA,ANA,0.4286
-TBA,ARI,0.4000
-TBA,ATL,0.3333
-TBA,BAL,0.5405
-TBA,BOS,0.4737
-TBA,CHA,0.5714
-TBA,CIN,0.3333
-TBA,CLE,0.6875
-TBA,DET,0.5333
-TBA,FLO,0.6667
-TBA,HOU,0.6667
-TBA,KCA,0.6000
-TBA,MIA,0.8000
-TBA,MIN,0.7333
-TBA,NYA,0.6389
-TBA,NYN,0.0000
-TBA,OAK,0.5714
-TBA,SDN,0.6667
-TBA,SEA,0.7368
-TBA,SFN,0.6667
-TBA,SLN,0.6667
-TBA,TEX,0.4762
-TBA,TOR,0.7027
-TEX,ANA,0.6667
-TEX,ARI,0.8000
-TEX,BAL,0.4375
-TEX,BOS,0.6875
-TEX,CHA,0.5000
-TEX,CHN,0.3333
-TEX,CIN,0.6667
-TEX,CLE,0.6667
-TEX,COL,0.6667
-TEX,DET,0.6818
-TEX,FLO,0.3333
-TEX,HOU,0.8333
-TEX,KCA,0.7333
-TEX,MIL,0.5000
-TEX,MIN,0.6111
-TEX,NYA,0.6111
-TEX,NYN,0.3333
-TEX,OAK,0.5789
-TEX,PIT,0.5000
-TEX,SEA,0.6579
-TEX,SFN,0.3333
-TEX,SLN,0.6667
-TEX,TBA,0.5000
-TEX,TOR,0.4118
-TOR,ANA,0.3529
-TOR,ATL,0.5000
-TOR,BAL,0.7027
-TOR,BOS,0.4167
-TOR,CHA,0.5000
-TOR,CLE,0.4167
-TOR,COL,1.0000
-TOR,DET,0.4000
-TOR,HOU,0.5714
-TOR,KCA,0.5385
-TOR,LAN,0.0000
-TOR,MIN,0.7143
-TOR,NYA,0.5833
-TOR,NYN,0.6667
-TOR,OAK,0.4706
-TOR,PHI,0.5556
-TOR,PIT,0.3333
-TOR,SEA,0.6000
-TOR,SFN,0.8000
-TOR,SLN,0.3333
-TOR,TBA,0.4167
-TOR,TEX,0.6316
-TOR,WAS,0.0000
-WAS,ARI,0.5385
-WAS,ATL,0.5000
-WAS,BAL,0.5455
-WAS,CHA,0.5000
-WAS,CHN,0.5714
-WAS,CIN,0.6429
-WAS,COL,0.4286
-WAS,DET,1.0000
-WAS,FLO,0.2222
-WAS,HOU,0.7273
-WAS,KCA,0.6667
-WAS,LAN,0.4167
-WAS,MIA,0.7895
-WAS,MIL,0.6429
-WAS,MIN,0.6667
-WAS,NYA,0.0000
-WAS,NYN,0.5278
-WAS,PHI,0.5833
-WAS,PIT,0.5714
-WAS,SDN,0.6364
-WAS,SEA,1.0000
-WAS,SFN,0.6923
-WAS,SLN,0.5882
-WAS,TBA,0.6667
+home_team_name,away_team_name,"avg(HOME_SCORE_CT > AWAY_SCORE_CT)"
+"Anaheim Angels","Arizona Diamondbacks",0.6667
+"Anaheim Angels","Arizona Diamondbacks",0.6667
+"Anaheim Angels","Atlanta Braves",0.6667
+"Anaheim Angels","Atlanta Braves",0.6667
+"Anaheim Angels","Baltimore Orioles",0.5294
+"Anaheim Angels","Baltimore Orioles",0.5294
+"Anaheim Angels","Boston Red Sox",0.3846
+"Anaheim Angels","Boston Red Sox",0.3846
+"Anaheim Angels","Chicago Cubs",0.5000
+"Anaheim Angels","Chicago Cubs",0.5000
+"Anaheim Angels","Chicago White Sox",0.5294
+"Anaheim Angels","Chicago White Sox",0.5294
+"Anaheim Angels","Cleveland Indians",0.5000
+"Anaheim Angels","Cleveland Indians",0.5000
+"Anaheim Angels","Colorado Rockies",0.6667
+"Anaheim Angels","Colorado Rockies",0.6667
+"Anaheim Angels","Detroit Tigers",0.7692
+"Anaheim Angels","Detroit Tigers",0.7692
+"Anaheim Angels","Houston Astros",0.3000
+"Anaheim Angels","Houston Astros",0.3000
+"Anaheim Angels","Kansas City Royals",0.5000
+"Anaheim Angels","Kansas City Royals",0.5000
+"Anaheim Angels","Los Angeles Dodgers",0.7273
+"Anaheim Angels","Los Angeles Dodgers",0.7273
+"Anaheim Angels","Milwaukee Brewers",0.3333
+"Anaheim Angels","Milwaukee Brewers",0.3333
+"Anaheim Angels","Minnesota Twins",0.5625
+"Anaheim Angels","Minnesota Twins",0.5625
+"Anaheim Angels","New York Yankees",0.6000
+"Anaheim Angels","New York Yankees",0.6000
+"Anaheim Angels","Oakland Athletics",0.5000
+"Anaheim Angels","Oakland Athletics",0.5000
+"Anaheim Angels","Pittsburgh Pirates",0.0000
+"Anaheim Angels","Pittsburgh Pirates",0.0000
+"Anaheim Angels","San Francisco Giants",0.6667
+"Anaheim Angels","San Francisco Giants",0.6667
+"Anaheim Angels","Seattle Mariners",0.7105
+"Anaheim Angels","Seattle Mariners",0.7105
+"Anaheim Angels","St. Louis Cardinals",0.6667
+"Anaheim Angels","St. Louis Cardinals",0.6667
+"Anaheim Angels","Tampa Bay Devil Rays",0.2500
+"Anaheim Angels","Tampa Bay Rays",0.2500
+"Anaheim Angels","Texas Rangers",0.4595
+"Anaheim Angels","Texas Rangers",0.4595
+"Anaheim Angels","Toronto Blue Jays",0.5882
+"Anaheim Angels","Toronto Blue Jays",0.5882
+"Anaheim Angels","Washington Nationals",1.0000
+"Anaheim Angels","Washington Nationals",1.0000
+"Anaheim Angels","Arizona Diamondbacks",0.6667
+"Anaheim Angels","Arizona Diamondbacks",0.6667
+"Anaheim Angels","Atlanta Braves",0.6667
+"Anaheim Angels","Atlanta Braves",0.6667
+"Anaheim Angels","Baltimore Orioles",0.5294
+"Anaheim Angels","Baltimore Orioles",0.5294
+"Anaheim Angels","Boston Red Sox",0.3846
+"Anaheim Angels","Boston Red Sox",0.3846
+"Anaheim Angels","Chicago Cubs",0.5000
+"Anaheim Angels","Chicago Cubs",0.5000
+"Anaheim Angels","Chicago White Sox",0.5294
+"Anaheim Angels","Chicago White Sox",0.5294
+"Anaheim Angels","Cleveland Indians",0.5000
+"Anaheim Angels","Cleveland Indians",0.5000
+"Anaheim Angels","Colorado Rockies",0.6667
+"Anaheim Angels","Colorado Rockies",0.6667
+"Anaheim Angels","Detroit Tigers",0.7692
+"Anaheim Angels","Detroit Tigers",0.7692
+"Anaheim Angels","Houston Astros",0.3000
+"Anaheim Angels","Houston Astros",0.3000
+"Anaheim Angels","Kansas City Royals",0.5000
+"Anaheim Angels","Kansas City Royals",0.5000
+"Anaheim Angels","Los Angeles Dodgers",0.7273
+"Anaheim Angels","Los Angeles Dodgers",0.7273
+"Anaheim Angels","Milwaukee Brewers",0.3333
+"Anaheim Angels","Milwaukee Brewers",0.3333
+"Anaheim Angels","Minnesota Twins",0.5625
+"Anaheim Angels","Minnesota Twins",0.5625
+"Anaheim Angels","New York Yankees",0.6000
+"Anaheim Angels","New York Yankees",0.6000
+"Anaheim Angels","Oakland Athletics",0.5000
+"Anaheim Angels","Oakland Athletics",0.5000
+"Anaheim Angels","Pittsburgh Pirates",0.0000
+"Anaheim Angels","Pittsburgh Pirates",0.0000
+"Anaheim Angels","San Francisco Giants",0.6667
+"Anaheim Angels","San Francisco Giants",0.6667
+"Anaheim Angels","Seattle Mariners",0.7105
+"Anaheim Angels","Seattle Mariners",0.7105
+"Anaheim Angels","St. Louis Cardinals",0.6667
+"Anaheim Angels","St. Louis Cardinals",0.6667
+"Anaheim Angels","Tampa Bay Devil Rays",0.2500
+"Anaheim Angels","Tampa Bay Rays",0.2500
+"Anaheim Angels","Texas Rangers",0.4595
+"Anaheim Angels","Texas Rangers",0.4595
+"Anaheim Angels","Toronto Blue Jays",0.5882
+"Anaheim Angels","Toronto Blue Jays",0.5882
+"Anaheim Angels","Washington Nationals",1.0000
+"Anaheim Angels","Washington Nationals",1.0000
+"Arizona Diamondbacks","Atlanta Braves",0.5385
+"Arizona Diamondbacks","Atlanta Braves",0.5385
+"Arizona Diamondbacks","Baltimore Orioles",1.0000
+"Arizona Diamondbacks","Baltimore Orioles",1.0000
+"Arizona Diamondbacks","Chicago Cubs",0.5294
+"Arizona Diamondbacks","Chicago Cubs",0.5294
+"Arizona Diamondbacks","Chicago White Sox",0.3333
+"Arizona Diamondbacks","Chicago White Sox",0.3333
+"Arizona Diamondbacks","Cincinnati Reds",0.3333
+"Arizona Diamondbacks","Cincinnati Reds",0.3333
+"Arizona Diamondbacks","Cleveland Indians",0.3333
+"Arizona Diamondbacks","Cleveland Indians",0.3333
+"Arizona Diamondbacks","Colorado Rockies",0.7297
+"Arizona Diamondbacks","Colorado Rockies",0.7297
+"Arizona Diamondbacks","Florida Marlins",0.5714
+"Arizona Diamondbacks","Florida Marlins",0.5714
+"Arizona Diamondbacks","Houston Astros",0.7000
+"Arizona Diamondbacks","Houston Astros",0.7000
+"Arizona Diamondbacks","Los Angeles Dodgers",0.4595
+"Arizona Diamondbacks","Los Angeles Dodgers",0.4595
+"Arizona Diamondbacks","Miami Marlins",0.5714
+"Arizona Diamondbacks","Milwaukee Brewers",0.5625
+"Arizona Diamondbacks","Milwaukee Brewers",0.5625
+"Arizona Diamondbacks","Minnesota Twins",1.0000
+"Arizona Diamondbacks","Minnesota Twins",1.0000
+"Arizona Diamondbacks","New York Mets",0.6923
+"Arizona Diamondbacks","New York Mets",0.6923
+"Arizona Diamondbacks","New York Yankees",0.3333
+"Arizona Diamondbacks","New York Yankees",0.3333
+"Arizona Diamondbacks","Oakland Athletics",1.0000
+"Arizona Diamondbacks","Oakland Athletics",1.0000
+"Arizona Diamondbacks","Philadelphia Phillies",0.5385
+"Arizona Diamondbacks","Philadelphia Phillies",0.5385
+"Arizona Diamondbacks","Pittsburgh Pirates",0.5000
+"Arizona Diamondbacks","Pittsburgh Pirates",0.5000
+"Arizona Diamondbacks","San Diego Padres",0.5833
+"Arizona Diamondbacks","San Diego Padres",0.5833
+"Arizona Diamondbacks","San Francisco Giants",0.4167
+"Arizona Diamondbacks","San Francisco Giants",0.4167
+"Arizona Diamondbacks","Seattle Mariners",0.6667
+"Arizona Diamondbacks","Seattle Mariners",0.6667
+"Arizona Diamondbacks","St. Louis Cardinals",0.4000
+"Arizona Diamondbacks","St. Louis Cardinals",0.4000
+"Arizona Diamondbacks","Tampa Bay Devil Rays",1.0000
+"Arizona Diamondbacks","Tampa Bay Rays",1.0000
+"Arizona Diamondbacks","Texas Rangers",1.0000
+"Arizona Diamondbacks","Texas Rangers",1.0000
+"Arizona Diamondbacks","Toronto Blue Jays",0.5000
+"Arizona Diamondbacks","Toronto Blue Jays",0.5000
+"Arizona Diamondbacks","Washington Nationals",0.4286
+"Arizona Diamondbacks","Washington Nationals",0.4286
+"Arizona Diamondbacks","Atlanta Braves",0.5385
+"Arizona Diamondbacks","Atlanta Braves",0.5385
+"Arizona Diamondbacks","Baltimore Orioles",1.0000
+"Arizona Diamondbacks","Baltimore Orioles",1.0000
+"Arizona Diamondbacks","Chicago Cubs",0.5294
+"Arizona Diamondbacks","Chicago Cubs",0.5294
+"Arizona Diamondbacks","Chicago White Sox",0.3333
+"Arizona Diamondbacks","Chicago White Sox",0.3333
+"Arizona Diamondbacks","Cincinnati Reds",0.3333
+"Arizona Diamondbacks","Cincinnati Reds",0.3333
+"Arizona Diamondbacks","Cleveland Indians",0.3333
+"Arizona Diamondbacks","Cleveland Indians",0.3333
+"Arizona Diamondbacks","Colorado Rockies",0.7297
+"Arizona Diamondbacks","Colorado Rockies",0.7297
+"Arizona Diamondbacks","Florida Marlins",0.5714
+"Arizona Diamondbacks","Florida Marlins",0.5714
+"Arizona Diamondbacks","Houston Astros",0.7000
+"Arizona Diamondbacks","Houston Astros",0.7000
+"Arizona Diamondbacks","Los Angeles Dodgers",0.4595
+"Arizona Diamondbacks","Los Angeles Dodgers",0.4595
+"Arizona Diamondbacks","Miami Marlins",0.5714
+"Arizona Diamondbacks","Milwaukee Brewers",0.5625
+"Arizona Diamondbacks","Milwaukee Brewers",0.5625
+"Arizona Diamondbacks","Minnesota Twins",1.0000
+"Arizona Diamondbacks","Minnesota Twins",1.0000
+"Arizona Diamondbacks","New York Mets",0.6923
+"Arizona Diamondbacks","New York Mets",0.6923
+"Arizona Diamondbacks","New York Yankees",0.3333
+"Arizona Diamondbacks","New York Yankees",0.3333
+"Arizona Diamondbacks","Oakland Athletics",1.0000
+"Arizona Diamondbacks","Oakland Athletics",1.0000
+"Arizona Diamondbacks","Philadelphia Phillies",0.5385
+"Arizona Diamondbacks","Philadelphia Phillies",0.5385
+"Arizona Diamondbacks","Pittsburgh Pirates",0.5000
+"Arizona Diamondbacks","Pittsburgh Pirates",0.5000
+"Arizona Diamondbacks","San Diego Padres",0.5833
+"Arizona Diamondbacks","San Diego Padres",0.5833
+"Arizona Diamondbacks","San Francisco Giants",0.4167
+"Arizona Diamondbacks","San Francisco Giants",0.4167
+"Arizona Diamondbacks","Seattle Mariners",0.6667
+"Arizona Diamondbacks","Seattle Mariners",0.6667
+"Arizona Diamondbacks","St. Louis Cardinals",0.4000
+"Arizona Diamondbacks","St. Louis Cardinals",0.4000
+"Arizona Diamondbacks","Tampa Bay Devil Rays",1.0000
+"Arizona Diamondbacks","Tampa Bay Rays",1.0000
+"Arizona Diamondbacks","Texas Rangers",1.0000
+"Arizona Diamondbacks","Texas Rangers",1.0000
+"Arizona Diamondbacks","Toronto Blue Jays",0.5000
+"Arizona Diamondbacks","Toronto Blue Jays",0.5000
+"Arizona Diamondbacks","Washington Nationals",0.4286
+"Arizona Diamondbacks","Washington Nationals",0.4286
+"Atlanta Braves","Arizona Diamondbacks",0.8333
+"Atlanta Braves","Arizona Diamondbacks",0.8333
+"Atlanta Braves","Baltimore Orioles",0.5000
+"Atlanta Braves","Baltimore Orioles",0.5000
+"Atlanta Braves","Chicago Cubs",0.6154
+"Atlanta Braves","Chicago Cubs",0.6154
+"Atlanta Braves","Cincinnati Reds",0.6364
+"Atlanta Braves","Cincinnati Reds",0.6364
+"Atlanta Braves","Cleveland Indians",1.0000
+"Atlanta Braves","Cleveland Indians",1.0000
+"Atlanta Braves","Colorado Rockies",0.8667
+"Atlanta Braves","Colorado Rockies",0.8667
+"Atlanta Braves","Detroit Tigers",0.6667
+"Atlanta Braves","Detroit Tigers",0.6667
+"Atlanta Braves","Florida Marlins",0.6667
+"Atlanta Braves","Florida Marlins",0.6667
+"Atlanta Braves","Houston Astros",0.8750
+"Atlanta Braves","Houston Astros",0.8750
+"Atlanta Braves","Kansas City Royals",0.8000
+"Atlanta Braves","Kansas City Royals",0.8000
+"Atlanta Braves","Los Angeles Dodgers",0.6000
+"Atlanta Braves","Los Angeles Dodgers",0.6000
+"Atlanta Braves","Miami Marlins",0.6667
+"Atlanta Braves","Milwaukee Brewers",0.7143
+"Atlanta Braves","Milwaukee Brewers",0.7143
+"Atlanta Braves","Minnesota Twins",1.0000
+"Atlanta Braves","Minnesota Twins",1.0000
+"Atlanta Braves","New York Mets",0.5946
+"Atlanta Braves","New York Mets",0.5946
+"Atlanta Braves","New York Yankees",0.0000
+"Atlanta Braves","New York Yankees",0.0000
+"Atlanta Braves","Philadelphia Phillies",0.5405
+"Atlanta Braves","Philadelphia Phillies",0.5405
+"Atlanta Braves","Pittsburgh Pirates",0.7143
+"Atlanta Braves","Pittsburgh Pirates",0.7143
+"Atlanta Braves","San Diego Padres",0.5385
+"Atlanta Braves","San Diego Padres",0.5385
+"Atlanta Braves","San Francisco Giants",0.5625
+"Atlanta Braves","San Francisco Giants",0.5625
+"Atlanta Braves","St. Louis Cardinals",0.5714
+"Atlanta Braves","St. Louis Cardinals",0.5714
+"Atlanta Braves","Tampa Bay Devil Rays",0.6667
+"Atlanta Braves","Tampa Bay Rays",0.6667
+"Atlanta Braves","Texas Rangers",0.3333
+"Atlanta Braves","Texas Rangers",0.3333
+"Atlanta Braves","Toronto Blue Jays",0.7500
+"Atlanta Braves","Toronto Blue Jays",0.7500
+"Atlanta Braves","Washington Nationals",0.5405
+"Atlanta Braves","Washington Nationals",0.5405
+"Atlanta Braves","Arizona Diamondbacks",0.8333
+"Atlanta Braves","Arizona Diamondbacks",0.8333
+"Atlanta Braves","Baltimore Orioles",0.5000
+"Atlanta Braves","Baltimore Orioles",0.5000
+"Atlanta Braves","Chicago Cubs",0.6154
+"Atlanta Braves","Chicago Cubs",0.6154
+"Atlanta Braves","Cincinnati Reds",0.6364
+"Atlanta Braves","Cincinnati Reds",0.6364
+"Atlanta Braves","Cleveland Indians",1.0000
+"Atlanta Braves","Cleveland Indians",1.0000
+"Atlanta Braves","Colorado Rockies",0.8667
+"Atlanta Braves","Colorado Rockies",0.8667
+"Atlanta Braves","Detroit Tigers",0.6667
+"Atlanta Braves","Detroit Tigers",0.6667
+"Atlanta Braves","Florida Marlins",0.6667
+"Atlanta Braves","Florida Marlins",0.6667
+"Atlanta Braves","Houston Astros",0.8750
+"Atlanta Braves","Houston Astros",0.8750
+"Atlanta Braves","Kansas City Royals",0.8000
+"Atlanta Braves","Kansas City Royals",0.8000
+"Atlanta Braves","Los Angeles Dodgers",0.6000
+"Atlanta Braves","Los Angeles Dodgers",0.6000
+"Atlanta Braves","Miami Marlins",0.6667
+"Atlanta Braves","Milwaukee Brewers",0.7143
+"Atlanta Braves","Milwaukee Brewers",0.7143
+"Atlanta Braves","Minnesota Twins",1.0000
+"Atlanta Braves","Minnesota Twins",1.0000
+"Atlanta Braves","New York Mets",0.5946
+"Atlanta Braves","New York Mets",0.5946
+"Atlanta Braves","New York Yankees",0.0000
+"Atlanta Braves","New York Yankees",0.0000
+"Atlanta Braves","Philadelphia Phillies",0.5405
+"Atlanta Braves","Philadelphia Phillies",0.5405
+"Atlanta Braves","Pittsburgh Pirates",0.7143
+"Atlanta Braves","Pittsburgh Pirates",0.7143
+"Atlanta Braves","San Diego Padres",0.5385
+"Atlanta Braves","San Diego Padres",0.5385
+"Atlanta Braves","San Francisco Giants",0.5625
+"Atlanta Braves","San Francisco Giants",0.5625
+"Atlanta Braves","St. Louis Cardinals",0.5714
+"Atlanta Braves","St. Louis Cardinals",0.5714
+"Atlanta Braves","Tampa Bay Devil Rays",0.6667
+"Atlanta Braves","Tampa Bay Rays",0.6667
+"Atlanta Braves","Texas Rangers",0.3333
+"Atlanta Braves","Texas Rangers",0.3333
+"Atlanta Braves","Toronto Blue Jays",0.7500
+"Atlanta Braves","Toronto Blue Jays",0.7500
+"Atlanta Braves","Washington Nationals",0.5405
+"Atlanta Braves","Washington Nationals",0.5405
+"Baltimore Orioles","Anaheim Angels",0.5714
+"Baltimore Orioles","Anaheim Angels",0.5714
+"Baltimore Orioles","Boston Red Sox",0.5946
+"Baltimore Orioles","Boston Red Sox",0.5946
+"Baltimore Orioles","Chicago White Sox",0.6250
+"Baltimore Orioles","Chicago White Sox",0.6250
+"Baltimore Orioles","Cincinnati Reds",0.6667
+"Baltimore Orioles","Cincinnati Reds",0.6667
+"Baltimore Orioles","Cleveland Indians",0.4000
+"Baltimore Orioles","Cleveland Indians",0.4000
+"Baltimore Orioles","Colorado Rockies",0.6667
+"Baltimore Orioles","Colorado Rockies",0.6667
+"Baltimore Orioles","Detroit Tigers",0.5625
+"Baltimore Orioles","Detroit Tigers",0.5625
+"Baltimore Orioles","Florida Marlins",0.3333
+"Baltimore Orioles","Florida Marlins",0.3333
+"Baltimore Orioles","Houston Astros",0.6667
+"Baltimore Orioles","Houston Astros",0.6667
+"Baltimore Orioles","Kansas City Royals",0.6000
+"Baltimore Orioles","Kansas City Royals",0.6000
+"Baltimore Orioles","Los Angeles Dodgers",0.6667
+"Baltimore Orioles","Los Angeles Dodgers",0.6667
+"Baltimore Orioles","Minnesota Twins",0.5000
+"Baltimore Orioles","Minnesota Twins",0.5000
+"Baltimore Orioles","New York Mets",0.0000
+"Baltimore Orioles","New York Mets",0.0000
+"Baltimore Orioles","New York Yankees",0.4103
+"Baltimore Orioles","New York Yankees",0.4103
+"Baltimore Orioles","Oakland Athletics",0.5556
+"Baltimore Orioles","Oakland Athletics",0.5556
+"Baltimore Orioles","Philadelphia Phillies",0.6667
+"Baltimore Orioles","Philadelphia Phillies",0.6667
+"Baltimore Orioles","Pittsburgh Pirates",1.0000
+"Baltimore Orioles","Pittsburgh Pirates",1.0000
+"Baltimore Orioles","San Diego Padres",0.0000
+"Baltimore Orioles","San Diego Padres",0.0000
+"Baltimore Orioles","Seattle Mariners",0.6667
+"Baltimore Orioles","Seattle Mariners",0.6667
+"Baltimore Orioles","St. Louis Cardinals",0.0000
+"Baltimore Orioles","St. Louis Cardinals",0.0000
+"Baltimore Orioles","Tampa Bay Devil Rays",0.4167
+"Baltimore Orioles","Tampa Bay Rays",0.4167
+"Baltimore Orioles","Texas Rangers",0.4000
+"Baltimore Orioles","Texas Rangers",0.4000
+"Baltimore Orioles","Toronto Blue Jays",0.5278
+"Baltimore Orioles","Toronto Blue Jays",0.5278
+"Baltimore Orioles","Washington Nationals",0.8182
+"Baltimore Orioles","Washington Nationals",0.8182
+"Baltimore Orioles","Anaheim Angels",0.5714
+"Baltimore Orioles","Anaheim Angels",0.5714
+"Baltimore Orioles","Boston Red Sox",0.5946
+"Baltimore Orioles","Boston Red Sox",0.5946
+"Baltimore Orioles","Chicago White Sox",0.6250
+"Baltimore Orioles","Chicago White Sox",0.6250
+"Baltimore Orioles","Cincinnati Reds",0.6667
+"Baltimore Orioles","Cincinnati Reds",0.6667
+"Baltimore Orioles","Cleveland Indians",0.4000
+"Baltimore Orioles","Cleveland Indians",0.4000
+"Baltimore Orioles","Colorado Rockies",0.6667
+"Baltimore Orioles","Colorado Rockies",0.6667
+"Baltimore Orioles","Detroit Tigers",0.5625
+"Baltimore Orioles","Detroit Tigers",0.5625
+"Baltimore Orioles","Florida Marlins",0.3333
+"Baltimore Orioles","Florida Marlins",0.3333
+"Baltimore Orioles","Houston Astros",0.6667
+"Baltimore Orioles","Houston Astros",0.6667
+"Baltimore Orioles","Kansas City Royals",0.6000
+"Baltimore Orioles","Kansas City Royals",0.6000
+"Baltimore Orioles","Los Angeles Dodgers",0.6667
+"Baltimore Orioles","Los Angeles Dodgers",0.6667
+"Baltimore Orioles","Minnesota Twins",0.5000
+"Baltimore Orioles","Minnesota Twins",0.5000
+"Baltimore Orioles","New York Mets",0.0000
+"Baltimore Orioles","New York Mets",0.0000
+"Baltimore Orioles","New York Yankees",0.4103
+"Baltimore Orioles","New York Yankees",0.4103
+"Baltimore Orioles","Oakland Athletics",0.5556
+"Baltimore Orioles","Oakland Athletics",0.5556
+"Baltimore Orioles","Philadelphia Phillies",0.6667
+"Baltimore Orioles","Philadelphia Phillies",0.6667
+"Baltimore Orioles","Pittsburgh Pirates",1.0000
+"Baltimore Orioles","Pittsburgh Pirates",1.0000
+"Baltimore Orioles","San Diego Padres",0.0000
+"Baltimore Orioles","San Diego Padres",0.0000
+"Baltimore Orioles","Seattle Mariners",0.6667
+"Baltimore Orioles","Seattle Mariners",0.6667
+"Baltimore Orioles","St. Louis Cardinals",0.0000
+"Baltimore Orioles","St. Louis Cardinals",0.0000
+"Baltimore Orioles","Tampa Bay Devil Rays",0.4167
+"Baltimore Orioles","Tampa Bay Rays",0.4167
+"Baltimore Orioles","Texas Rangers",0.4000
+"Baltimore Orioles","Texas Rangers",0.4000
+"Baltimore Orioles","Toronto Blue Jays",0.5278
+"Baltimore Orioles","Toronto Blue Jays",0.5278
+"Baltimore Orioles","Washington Nationals",0.8182
+"Baltimore Orioles","Washington Nationals",0.8182
+"Boston Red Sox","Anaheim Angels",0.5882
+"Boston Red Sox","Anaheim Angels",0.5882
+"Boston Red Sox","Arizona Diamondbacks",0.8333
+"Boston Red Sox","Arizona Diamondbacks",0.8333
+"Boston Red Sox","Atlanta Braves",0.6667
+"Boston Red Sox","Atlanta Braves",0.6667
+"Boston Red Sox","Baltimore Orioles",0.4722
+"Boston Red Sox","Baltimore Orioles",0.4722
+"Boston Red Sox","Chicago Cubs",0.6667
+"Boston Red Sox","Chicago Cubs",0.6667
+"Boston Red Sox","Chicago White Sox",0.4615
+"Boston Red Sox","Chicago White Sox",0.4615
+"Boston Red Sox","Cleveland Indians",0.6250
+"Boston Red Sox","Cleveland Indians",0.6250
+"Boston Red Sox","Colorado Rockies",1.0000
+"Boston Red Sox","Colorado Rockies",1.0000
+"Boston Red Sox","Detroit Tigers",0.7222
+"Boston Red Sox","Detroit Tigers",0.7222
+"Boston Red Sox","Houston Astros",1.0000
+"Boston Red Sox","Houston Astros",1.0000
+"Boston Red Sox","Kansas City Royals",0.5333
+"Boston Red Sox","Kansas City Royals",0.5333
+"Boston Red Sox","Los Angeles Dodgers",1.0000
+"Boston Red Sox","Los Angeles Dodgers",1.0000
+"Boston Red Sox","Miami Marlins",1.0000
+"Boston Red Sox","Milwaukee Brewers",0.6667
+"Boston Red Sox","Milwaukee Brewers",0.6667
+"Boston Red Sox","Minnesota Twins",0.5000
+"Boston Red Sox","Minnesota Twins",0.5000
+"Boston Red Sox","New York Yankees",0.4722
+"Boston Red Sox","New York Yankees",0.4722
+"Boston Red Sox","Oakland Athletics",0.6667
+"Boston Red Sox","Oakland Athletics",0.6667
+"Boston Red Sox","Philadelphia Phillies",0.6000
+"Boston Red Sox","Philadelphia Phillies",0.6000
+"Boston Red Sox","San Diego Padres",0.6667
+"Boston Red Sox","San Diego Padres",0.6667
+"Boston Red Sox","Seattle Mariners",0.7857
+"Boston Red Sox","Seattle Mariners",0.7857
+"Boston Red Sox","St. Louis Cardinals",0.6667
+"Boston Red Sox","St. Louis Cardinals",0.6667
+"Boston Red Sox","Tampa Bay Devil Rays",0.4359
+"Boston Red Sox","Tampa Bay Rays",0.4359
+"Boston Red Sox","Texas Rangers",0.3889
+"Boston Red Sox","Texas Rangers",0.3889
+"Boston Red Sox","Toronto Blue Jays",0.5135
+"Boston Red Sox","Toronto Blue Jays",0.5135
+"Boston Red Sox","Washington Nationals",0.0000
+"Boston Red Sox","Washington Nationals",0.0000
+"Boston Red Sox","Anaheim Angels",0.5882
+"Boston Red Sox","Anaheim Angels",0.5882
+"Boston Red Sox","Arizona Diamondbacks",0.8333
+"Boston Red Sox","Arizona Diamondbacks",0.8333
+"Boston Red Sox","Atlanta Braves",0.6667
+"Boston Red Sox","Atlanta Braves",0.6667
+"Boston Red Sox","Baltimore Orioles",0.4722
+"Boston Red Sox","Baltimore Orioles",0.4722
+"Boston Red Sox","Chicago Cubs",0.6667
+"Boston Red Sox","Chicago Cubs",0.6667
+"Boston Red Sox","Chicago White Sox",0.4615
+"Boston Red Sox","Chicago White Sox",0.4615
+"Boston Red Sox","Cleveland Indians",0.6250
+"Boston Red Sox","Cleveland Indians",0.6250
+"Boston Red Sox","Colorado Rockies",1.0000
+"Boston Red Sox","Colorado Rockies",1.0000
+"Boston Red Sox","Detroit Tigers",0.7222
+"Boston Red Sox","Detroit Tigers",0.7222
+"Boston Red Sox","Houston Astros",1.0000
+"Boston Red Sox","Houston Astros",1.0000
+"Boston Red Sox","Kansas City Royals",0.5333
+"Boston Red Sox","Kansas City Royals",0.5333
+"Boston Red Sox","Los Angeles Dodgers",1.0000
+"Boston Red Sox","Los Angeles Dodgers",1.0000
+"Boston Red Sox","Miami Marlins",1.0000
+"Boston Red Sox","Milwaukee Brewers",0.6667
+"Boston Red Sox","Milwaukee Brewers",0.6667
+"Boston Red Sox","Minnesota Twins",0.5000
+"Boston Red Sox","Minnesota Twins",0.5000
+"Boston Red Sox","New York Yankees",0.4722
+"Boston Red Sox","New York Yankees",0.4722
+"Boston Red Sox","Oakland Athletics",0.6667
+"Boston Red Sox","Oakland Athletics",0.6667
+"Boston Red Sox","Philadelphia Phillies",0.6000
+"Boston Red Sox","Philadelphia Phillies",0.6000
+"Boston Red Sox","San Diego Padres",0.6667
+"Boston Red Sox","San Diego Padres",0.6667
+"Boston Red Sox","Seattle Mariners",0.7857
+"Boston Red Sox","Seattle Mariners",0.7857
+"Boston Red Sox","St. Louis Cardinals",0.6667
+"Boston Red Sox","St. Louis Cardinals",0.6667
+"Boston Red Sox","Tampa Bay Devil Rays",0.4359
+"Boston Red Sox","Tampa Bay Rays",0.4359
+"Boston Red Sox","Texas Rangers",0.3889
+"Boston Red Sox","Texas Rangers",0.3889
+"Boston Red Sox","Toronto Blue Jays",0.5135
+"Boston Red Sox","Toronto Blue Jays",0.5135
+"Boston Red Sox","Washington Nationals",0.0000
+"Boston Red Sox","Washington Nationals",0.0000
+"Chicago Cubs","Anaheim Angels",0.4000
+"Chicago Cubs","Anaheim Angels",0.4000
+"Chicago Cubs","Arizona Diamondbacks",0.6923
+"Chicago Cubs","Arizona Diamondbacks",0.6923
+"Chicago Cubs","Atlanta Braves",0.3846
+"Chicago Cubs","Atlanta Braves",0.3846
+"Chicago Cubs","Boston Red Sox",0.3333
+"Chicago Cubs","Boston Red Sox",0.3333
+"Chicago Cubs","Chicago White Sox",0.3636
+"Chicago Cubs","Chicago White Sox",0.3636
+"Chicago Cubs","Cincinnati Reds",0.2500
+"Chicago Cubs","Cincinnati Reds",0.2500
+"Chicago Cubs","Colorado Rockies",0.6364
+"Chicago Cubs","Colorado Rockies",0.6364
+"Chicago Cubs","Detroit Tigers",0.3333
+"Chicago Cubs","Detroit Tigers",0.3333
+"Chicago Cubs","Florida Marlins",0.2857
+"Chicago Cubs","Florida Marlins",0.2857
+"Chicago Cubs","Houston Astros",0.5333
+"Chicago Cubs","Houston Astros",0.5333
+"Chicago Cubs","Los Angeles Dodgers",0.3846
+"Chicago Cubs","Los Angeles Dodgers",0.3846
+"Chicago Cubs","Miami Marlins",0.5000
+"Chicago Cubs","Milwaukee Brewers",0.4333
+"Chicago Cubs","Milwaukee Brewers",0.4333
+"Chicago Cubs","New York Mets",0.5833
+"Chicago Cubs","New York Mets",0.5833
+"Chicago Cubs","New York Yankees",0.3333
+"Chicago Cubs","New York Yankees",0.3333
+"Chicago Cubs","Oakland Athletics",0.6667
+"Chicago Cubs","Oakland Athletics",0.6667
+"Chicago Cubs","Philadelphia Phillies",0.5000
+"Chicago Cubs","Philadelphia Phillies",0.5000
+"Chicago Cubs","Pittsburgh Pirates",0.4118
+"Chicago Cubs","Pittsburgh Pirates",0.4118
+"Chicago Cubs","San Diego Padres",0.5000
+"Chicago Cubs","San Diego Padres",0.5000
+"Chicago Cubs","San Francisco Giants",0.3750
+"Chicago Cubs","San Francisco Giants",0.3750
+"Chicago Cubs","St. Louis Cardinals",0.4848
+"Chicago Cubs","St. Louis Cardinals",0.4848
+"Chicago Cubs","Texas Rangers",0.6667
+"Chicago Cubs","Texas Rangers",0.6667
+"Chicago Cubs","Washington Nationals",0.3846
+"Chicago Cubs","Washington Nationals",0.3846
+"Chicago Cubs","Anaheim Angels",0.4000
+"Chicago Cubs","Anaheim Angels",0.4000
+"Chicago Cubs","Arizona Diamondbacks",0.6923
+"Chicago Cubs","Arizona Diamondbacks",0.6923
+"Chicago Cubs","Atlanta Braves",0.3846
+"Chicago Cubs","Atlanta Braves",0.3846
+"Chicago Cubs","Boston Red Sox",0.3333
+"Chicago Cubs","Boston Red Sox",0.3333
+"Chicago Cubs","Chicago White Sox",0.3636
+"Chicago Cubs","Chicago White Sox",0.3636
+"Chicago Cubs","Cincinnati Reds",0.2500
+"Chicago Cubs","Cincinnati Reds",0.2500
+"Chicago Cubs","Colorado Rockies",0.6364
+"Chicago Cubs","Colorado Rockies",0.6364
+"Chicago Cubs","Detroit Tigers",0.3333
+"Chicago Cubs","Detroit Tigers",0.3333
+"Chicago Cubs","Florida Marlins",0.2857
+"Chicago Cubs","Florida Marlins",0.2857
+"Chicago Cubs","Houston Astros",0.5333
+"Chicago Cubs","Houston Astros",0.5333
+"Chicago Cubs","Los Angeles Dodgers",0.3846
+"Chicago Cubs","Los Angeles Dodgers",0.3846
+"Chicago Cubs","Miami Marlins",0.5000
+"Chicago Cubs","Milwaukee Brewers",0.4333
+"Chicago Cubs","Milwaukee Brewers",0.4333
+"Chicago Cubs","New York Mets",0.5833
+"Chicago Cubs","New York Mets",0.5833
+"Chicago Cubs","New York Yankees",0.3333
+"Chicago Cubs","New York Yankees",0.3333
+"Chicago Cubs","Oakland Athletics",0.6667
+"Chicago Cubs","Oakland Athletics",0.6667
+"Chicago Cubs","Philadelphia Phillies",0.5000
+"Chicago Cubs","Philadelphia Phillies",0.5000
+"Chicago Cubs","Pittsburgh Pirates",0.4118
+"Chicago Cubs","Pittsburgh Pirates",0.4118
+"Chicago Cubs","San Diego Padres",0.5000
+"Chicago Cubs","San Diego Padres",0.5000
+"Chicago Cubs","San Francisco Giants",0.3750
+"Chicago Cubs","San Francisco Giants",0.3750
+"Chicago Cubs","St. Louis Cardinals",0.4848
+"Chicago Cubs","St. Louis Cardinals",0.4848
+"Chicago Cubs","Texas Rangers",0.6667
+"Chicago Cubs","Texas Rangers",0.6667
+"Chicago Cubs","Washington Nationals",0.3846
+"Chicago Cubs","Washington Nationals",0.3846
+"Chicago White Sox","Anaheim Angels",0.4667
+"Chicago White Sox","Anaheim Angels",0.4667
+"Chicago White Sox","Atlanta Braves",0.8333
+"Chicago White Sox","Atlanta Braves",0.8333
+"Chicago White Sox","Baltimore Orioles",0.4286
+"Chicago White Sox","Baltimore Orioles",0.4286
+"Chicago White Sox","Boston Red Sox",0.5000
+"Chicago White Sox","Boston Red Sox",0.5000
+"Chicago White Sox","Chicago Cubs",0.4545
+"Chicago White Sox","Chicago Cubs",0.4545
+"Chicago White Sox","Cleveland Indians",0.4054
+"Chicago White Sox","Cleveland Indians",0.4054
+"Chicago White Sox","Detroit Tigers",0.4054
+"Chicago White Sox","Detroit Tigers",0.4054
+"Chicago White Sox","Florida Marlins",0.6667
+"Chicago White Sox","Florida Marlins",0.6667
+"Chicago White Sox","Houston Astros",0.5000
+"Chicago White Sox","Houston Astros",0.5000
+"Chicago White Sox","Kansas City Royals",0.4595
+"Chicago White Sox","Kansas City Royals",0.4595
+"Chicago White Sox","Los Angeles Dodgers",0.6667
+"Chicago White Sox","Los Angeles Dodgers",0.6667
+"Chicago White Sox","Miami Marlins",1.0000
+"Chicago White Sox","Milwaukee Brewers",0.6667
+"Chicago White Sox","Milwaukee Brewers",0.6667
+"Chicago White Sox","Minnesota Twins",0.4167
+"Chicago White Sox","Minnesota Twins",0.4167
+"Chicago White Sox","New York Mets",0.5000
+"Chicago White Sox","New York Mets",0.5000
+"Chicago White Sox","New York Yankees",0.5385
+"Chicago White Sox","New York Yankees",0.5385
+"Chicago White Sox","Oakland Athletics",0.5882
+"Chicago White Sox","Oakland Athletics",0.5882
+"Chicago White Sox","Seattle Mariners",0.8421
+"Chicago White Sox","Seattle Mariners",0.8421
+"Chicago White Sox","Tampa Bay Devil Rays",0.4667
+"Chicago White Sox","Tampa Bay Rays",0.4667
+"Chicago White Sox","Texas Rangers",0.6429
+"Chicago White Sox","Texas Rangers",0.6429
+"Chicago White Sox","Toronto Blue Jays",0.5000
+"Chicago White Sox","Toronto Blue Jays",0.5000
+"Chicago White Sox","Washington Nationals",0.3333
+"Chicago White Sox","Washington Nationals",0.3333
+"Chicago White Sox","Anaheim Angels",0.4667
+"Chicago White Sox","Anaheim Angels",0.4667
+"Chicago White Sox","Atlanta Braves",0.8333
+"Chicago White Sox","Atlanta Braves",0.8333
+"Chicago White Sox","Baltimore Orioles",0.4286
+"Chicago White Sox","Baltimore Orioles",0.4286
+"Chicago White Sox","Boston Red Sox",0.5000
+"Chicago White Sox","Boston Red Sox",0.5000
+"Chicago White Sox","Chicago Cubs",0.4545
+"Chicago White Sox","Chicago Cubs",0.4545
+"Chicago White Sox","Cleveland Indians",0.4054
+"Chicago White Sox","Cleveland Indians",0.4054
+"Chicago White Sox","Detroit Tigers",0.4054
+"Chicago White Sox","Detroit Tigers",0.4054
+"Chicago White Sox","Florida Marlins",0.6667
+"Chicago White Sox","Florida Marlins",0.6667
+"Chicago White Sox","Houston Astros",0.5000
+"Chicago White Sox","Houston Astros",0.5000
+"Chicago White Sox","Kansas City Royals",0.4595
+"Chicago White Sox","Kansas City Royals",0.4595
+"Chicago White Sox","Los Angeles Dodgers",0.6667
+"Chicago White Sox","Los Angeles Dodgers",0.6667
+"Chicago White Sox","Miami Marlins",1.0000
+"Chicago White Sox","Milwaukee Brewers",0.6667
+"Chicago White Sox","Milwaukee Brewers",0.6667
+"Chicago White Sox","Minnesota Twins",0.4167
+"Chicago White Sox","Minnesota Twins",0.4167
+"Chicago White Sox","New York Mets",0.5000
+"Chicago White Sox","New York Mets",0.5000
+"Chicago White Sox","New York Yankees",0.5385
+"Chicago White Sox","New York Yankees",0.5385
+"Chicago White Sox","Oakland Athletics",0.5882
+"Chicago White Sox","Oakland Athletics",0.5882
+"Chicago White Sox","Seattle Mariners",0.8421
+"Chicago White Sox","Seattle Mariners",0.8421
+"Chicago White Sox","Tampa Bay Devil Rays",0.4667
+"Chicago White Sox","Tampa Bay Rays",0.4667
+"Chicago White Sox","Texas Rangers",0.6429
+"Chicago White Sox","Texas Rangers",0.6429
+"Chicago White Sox","Toronto Blue Jays",0.5000
+"Chicago White Sox","Toronto Blue Jays",0.5000
+"Chicago White Sox","Washington Nationals",0.3333
+"Chicago White Sox","Washington Nationals",0.3333
+"Cincinnati Reds","Anaheim Angels",0.6667
+"Cincinnati Reds","Anaheim Angels",0.6667
+"Cincinnati Reds","Arizona Diamondbacks",0.5333
+"Cincinnati Reds","Arizona Diamondbacks",0.5333
+"Cincinnati Reds","Atlanta Braves",0.6923
+"Cincinnati Reds","Atlanta Braves",0.6923
+"Cincinnati Reds","Chicago Cubs",0.6667
+"Cincinnati Reds","Chicago Cubs",0.6667
+"Cincinnati Reds","Cleveland Indians",0.7273
+"Cincinnati Reds","Cleveland Indians",0.7273
+"Cincinnati Reds","Colorado Rockies",0.5385
+"Cincinnati Reds","Colorado Rockies",0.5385
+"Cincinnati Reds","Detroit Tigers",0.3333
+"Cincinnati Reds","Detroit Tigers",0.3333
+"Cincinnati Reds","Florida Marlins",0.6667
+"Cincinnati Reds","Florida Marlins",0.6667
+"Cincinnati Reds","Houston Astros",0.6190
+"Cincinnati Reds","Houston Astros",0.6190
+"Cincinnati Reds","Kansas City Royals",0.3333
+"Cincinnati Reds","Kansas City Royals",0.3333
+"Cincinnati Reds","Los Angeles Dodgers",0.5333
+"Cincinnati Reds","Los Angeles Dodgers",0.5333
+"Cincinnati Reds","Miami Marlins",0.7143
+"Cincinnati Reds","Milwaukee Brewers",0.7143
+"Cincinnati Reds","Milwaukee Brewers",0.7143
+"Cincinnati Reds","Minnesota Twins",0.3333
+"Cincinnati Reds","Minnesota Twins",0.3333
+"Cincinnati Reds","New York Mets",0.3846
+"Cincinnati Reds","New York Mets",0.3846
+"Cincinnati Reds","New York Yankees",0.3333
+"Cincinnati Reds","New York Yankees",0.3333
+"Cincinnati Reds","Oakland Athletics",1.0000
+"Cincinnati Reds","Oakland Athletics",1.0000
+"Cincinnati Reds","Philadelphia Phillies",0.4286
+"Cincinnati Reds","Philadelphia Phillies",0.4286
+"Cincinnati Reds","Pittsburgh Pirates",0.5000
+"Cincinnati Reds","Pittsburgh Pirates",0.5000
+"Cincinnati Reds","San Diego Padres",0.6154
+"Cincinnati Reds","San Diego Padres",0.6154
+"Cincinnati Reds","San Francisco Giants",0.5882
+"Cincinnati Reds","San Francisco Giants",0.5882
+"Cincinnati Reds","Seattle Mariners",0.3333
+"Cincinnati Reds","Seattle Mariners",0.3333
+"Cincinnati Reds","St. Louis Cardinals",0.5294
+"Cincinnati Reds","St. Louis Cardinals",0.5294
+"Cincinnati Reds","Toronto Blue Jays",0.3333
+"Cincinnati Reds","Toronto Blue Jays",0.3333
+"Cincinnati Reds","Washington Nationals",0.6154
+"Cincinnati Reds","Washington Nationals",0.6154
+"Cincinnati Reds","Anaheim Angels",0.6667
+"Cincinnati Reds","Anaheim Angels",0.6667
+"Cincinnati Reds","Arizona Diamondbacks",0.5333
+"Cincinnati Reds","Arizona Diamondbacks",0.5333
+"Cincinnati Reds","Atlanta Braves",0.6923
+"Cincinnati Reds","Atlanta Braves",0.6923
+"Cincinnati Reds","Chicago Cubs",0.6667
+"Cincinnati Reds","Chicago Cubs",0.6667
+"Cincinnati Reds","Cleveland Indians",0.7273
+"Cincinnati Reds","Cleveland Indians",0.7273
+"Cincinnati Reds","Colorado Rockies",0.5385
+"Cincinnati Reds","Colorado Rockies",0.5385
+"Cincinnati Reds","Detroit Tigers",0.3333
+"Cincinnati Reds","Detroit Tigers",0.3333
+"Cincinnati Reds","Florida Marlins",0.6667
+"Cincinnati Reds","Florida Marlins",0.6667
+"Cincinnati Reds","Houston Astros",0.6190
+"Cincinnati Reds","Houston Astros",0.6190
+"Cincinnati Reds","Kansas City Royals",0.3333
+"Cincinnati Reds","Kansas City Royals",0.3333
+"Cincinnati Reds","Los Angeles Dodgers",0.5333
+"Cincinnati Reds","Los Angeles Dodgers",0.5333
+"Cincinnati Reds","Miami Marlins",0.7143
+"Cincinnati Reds","Milwaukee Brewers",0.7143
+"Cincinnati Reds","Milwaukee Brewers",0.7143
+"Cincinnati Reds","Minnesota Twins",0.3333
+"Cincinnati Reds","Minnesota Twins",0.3333
+"Cincinnati Reds","New York Mets",0.3846
+"Cincinnati Reds","New York Mets",0.3846
+"Cincinnati Reds","New York Yankees",0.3333
+"Cincinnati Reds","New York Yankees",0.3333
+"Cincinnati Reds","Oakland Athletics",1.0000
+"Cincinnati Reds","Oakland Athletics",1.0000
+"Cincinnati Reds","Philadelphia Phillies",0.4286
+"Cincinnati Reds","Philadelphia Phillies",0.4286
+"Cincinnati Reds","Pittsburgh Pirates",0.5000
+"Cincinnati Reds","Pittsburgh Pirates",0.5000
+"Cincinnati Reds","San Diego Padres",0.6154
+"Cincinnati Reds","San Diego Padres",0.6154
+"Cincinnati Reds","San Francisco Giants",0.5882
+"Cincinnati Reds","San Francisco Giants",0.5882
+"Cincinnati Reds","Seattle Mariners",0.3333
+"Cincinnati Reds","Seattle Mariners",0.3333
+"Cincinnati Reds","St. Louis Cardinals",0.5294
+"Cincinnati Reds","St. Louis Cardinals",0.5294
+"Cincinnati Reds","Toronto Blue Jays",0.3333
+"Cincinnati Reds","Toronto Blue Jays",0.3333
+"Cincinnati Reds","Washington Nationals",0.6154
+"Cincinnati Reds","Washington Nationals",0.6154
+"Cleveland Indians","Anaheim Angels",0.5333
+"Cleveland Indians","Anaheim Angels",0.5333
+"Cleveland Indians","Baltimore Orioles",0.5385
+"Cleveland Indians","Baltimore Orioles",0.5385
+"Cleveland Indians","Boston Red Sox",0.4706
+"Cleveland Indians","Boston Red Sox",0.4706
+"Cleveland Indians","Chicago White Sox",0.5000
+"Cleveland Indians","Chicago White Sox",0.5000
+"Cleveland Indians","Cincinnati Reds",0.8182
+"Cleveland Indians","Cincinnati Reds",0.8182
+"Cleveland Indians","Colorado Rockies",0.3333
+"Cleveland Indians","Colorado Rockies",0.3333
+"Cleveland Indians","Detroit Tigers",0.5405
+"Cleveland Indians","Detroit Tigers",0.5405
+"Cleveland Indians","Houston Astros",1.0000
+"Cleveland Indians","Houston Astros",1.0000
+"Cleveland Indians","Kansas City Royals",0.5833
+"Cleveland Indians","Kansas City Royals",0.5833
+"Cleveland Indians","Miami Marlins",0.3333
+"Cleveland Indians","Minnesota Twins",0.5000
+"Cleveland Indians","Minnesota Twins",0.5000
+"Cleveland Indians","New York Mets",0.3333
+"Cleveland Indians","New York Mets",0.3333
+"Cleveland Indians","New York Yankees",0.3571
+"Cleveland Indians","New York Yankees",0.3571
+"Cleveland Indians","Oakland Athletics",0.5000
+"Cleveland Indians","Oakland Athletics",0.5000
+"Cleveland Indians","Philadelphia Phillies",1.0000
+"Cleveland Indians","Philadelphia Phillies",1.0000
+"Cleveland Indians","Pittsburgh Pirates",0.6667
+"Cleveland Indians","Pittsburgh Pirates",0.6667
+"Cleveland Indians","Seattle Mariners",0.6000
+"Cleveland Indians","Seattle Mariners",0.6000
+"Cleveland Indians","Tampa Bay Devil Rays",0.3571
+"Cleveland Indians","Tampa Bay Rays",0.3571
+"Cleveland Indians","Texas Rangers",0.4375
+"Cleveland Indians","Texas Rangers",0.4375
+"Cleveland Indians","Toronto Blue Jays",0.4706
+"Cleveland Indians","Toronto Blue Jays",0.4706
+"Cleveland Indians","Washington Nationals",0.6667
+"Cleveland Indians","Washington Nationals",0.6667
+"Cleveland Indians","Anaheim Angels",0.5333
+"Cleveland Indians","Anaheim Angels",0.5333
+"Cleveland Indians","Baltimore Orioles",0.5385
+"Cleveland Indians","Baltimore Orioles",0.5385
+"Cleveland Indians","Boston Red Sox",0.4706
+"Cleveland Indians","Boston Red Sox",0.4706
+"Cleveland Indians","Chicago White Sox",0.5000
+"Cleveland Indians","Chicago White Sox",0.5000
+"Cleveland Indians","Cincinnati Reds",0.8182
+"Cleveland Indians","Cincinnati Reds",0.8182
+"Cleveland Indians","Colorado Rockies",0.3333
+"Cleveland Indians","Colorado Rockies",0.3333
+"Cleveland Indians","Detroit Tigers",0.5405
+"Cleveland Indians","Detroit Tigers",0.5405
+"Cleveland Indians","Houston Astros",1.0000
+"Cleveland Indians","Houston Astros",1.0000
+"Cleveland Indians","Kansas City Royals",0.5833
+"Cleveland Indians","Kansas City Royals",0.5833
+"Cleveland Indians","Miami Marlins",0.3333
+"Cleveland Indians","Minnesota Twins",0.5000
+"Cleveland Indians","Minnesota Twins",0.5000
+"Cleveland Indians","New York Mets",0.3333
+"Cleveland Indians","New York Mets",0.3333
+"Cleveland Indians","New York Yankees",0.3571
+"Cleveland Indians","New York Yankees",0.3571
+"Cleveland Indians","Oakland Athletics",0.5000
+"Cleveland Indians","Oakland Athletics",0.5000
+"Cleveland Indians","Philadelphia Phillies",1.0000
+"Cleveland Indians","Philadelphia Phillies",1.0000
+"Cleveland Indians","Pittsburgh Pirates",0.6667
+"Cleveland Indians","Pittsburgh Pirates",0.6667
+"Cleveland Indians","Seattle Mariners",0.6000
+"Cleveland Indians","Seattle Mariners",0.6000
+"Cleveland Indians","Tampa Bay Devil Rays",0.3571
+"Cleveland Indians","Tampa Bay Rays",0.3571
+"Cleveland Indians","Texas Rangers",0.4375
+"Cleveland Indians","Texas Rangers",0.4375
+"Cleveland Indians","Toronto Blue Jays",0.4706
+"Cleveland Indians","Toronto Blue Jays",0.4706
+"Cleveland Indians","Washington Nationals",0.6667
+"Cleveland Indians","Washington Nationals",0.6667
+"Colorado Rockies","Anaheim Angels",0.0000
+"Colorado Rockies","Anaheim Angels",0.0000
+"Colorado Rockies","Arizona Diamondbacks",0.5278
+"Colorado Rockies","Arizona Diamondbacks",0.5278
+"Colorado Rockies","Atlanta Braves",0.4615
+"Colorado Rockies","Atlanta Braves",0.4615
+"Colorado Rockies","Boston Red Sox",0.6000
+"Colorado Rockies","Boston Red Sox",0.6000
+"Colorado Rockies","Chicago Cubs",0.8333
+"Colorado Rockies","Chicago Cubs",0.8333
+"Colorado Rockies","Chicago White Sox",0.3333
+"Colorado Rockies","Chicago White Sox",0.3333
+"Colorado Rockies","Cincinnati Reds",0.6154
+"Colorado Rockies","Cincinnati Reds",0.6154
+"Colorado Rockies","Detroit Tigers",0.6667
+"Colorado Rockies","Detroit Tigers",0.6667
+"Colorado Rockies","Florida Marlins",0.6667
+"Colorado Rockies","Florida Marlins",0.6667
+"Colorado Rockies","Houston Astros",0.6154
+"Colorado Rockies","Houston Astros",0.6154
+"Colorado Rockies","Kansas City Royals",0.6667
+"Colorado Rockies","Kansas City Royals",0.6667
+"Colorado Rockies","Los Angeles Dodgers",0.5278
+"Colorado Rockies","Los Angeles Dodgers",0.5278
+"Colorado Rockies","Miami Marlins",0.3750
+"Colorado Rockies","Milwaukee Brewers",0.6875
+"Colorado Rockies","Milwaukee Brewers",0.6875
+"Colorado Rockies","New York Mets",0.5385
+"Colorado Rockies","New York Mets",0.5385
+"Colorado Rockies","New York Yankees",0.3333
+"Colorado Rockies","New York Yankees",0.3333
+"Colorado Rockies","Oakland Athletics",0.0000
+"Colorado Rockies","Oakland Athletics",0.0000
+"Colorado Rockies","Philadelphia Phillies",0.3333
+"Colorado Rockies","Philadelphia Phillies",0.3333
+"Colorado Rockies","Pittsburgh Pirates",0.5000
+"Colorado Rockies","Pittsburgh Pirates",0.5000
+"Colorado Rockies","San Diego Padres",0.5405
+"Colorado Rockies","San Diego Padres",0.5405
+"Colorado Rockies","San Francisco Giants",0.4595
+"Colorado Rockies","San Francisco Giants",0.4595
+"Colorado Rockies","Seattle Mariners",0.0000
+"Colorado Rockies","Seattle Mariners",0.0000
+"Colorado Rockies","St. Louis Cardinals",0.5385
+"Colorado Rockies","St. Louis Cardinals",0.5385
+"Colorado Rockies","Tampa Bay Devil Rays",0.3333
+"Colorado Rockies","Tampa Bay Rays",0.3333
+"Colorado Rockies","Toronto Blue Jays",1.0000
+"Colorado Rockies","Toronto Blue Jays",1.0000
+"Colorado Rockies","Washington Nationals",0.5333
+"Colorado Rockies","Washington Nationals",0.5333
+"Colorado Rockies","Anaheim Angels",0.0000
+"Colorado Rockies","Anaheim Angels",0.0000
+"Colorado Rockies","Arizona Diamondbacks",0.5278
+"Colorado Rockies","Arizona Diamondbacks",0.5278
+"Colorado Rockies","Atlanta Braves",0.4615
+"Colorado Rockies","Atlanta Braves",0.4615
+"Colorado Rockies","Boston Red Sox",0.6000
+"Colorado Rockies","Boston Red Sox",0.6000
+"Colorado Rockies","Chicago Cubs",0.8333
+"Colorado Rockies","Chicago Cubs",0.8333
+"Colorado Rockies","Chicago White Sox",0.3333
+"Colorado Rockies","Chicago White Sox",0.3333
+"Colorado Rockies","Cincinnati Reds",0.6154
+"Colorado Rockies","Cincinnati Reds",0.6154
+"Colorado Rockies","Detroit Tigers",0.6667
+"Colorado Rockies","Detroit Tigers",0.6667
+"Colorado Rockies","Florida Marlins",0.6667
+"Colorado Rockies","Florida Marlins",0.6667
+"Colorado Rockies","Houston Astros",0.6154
+"Colorado Rockies","Houston Astros",0.6154
+"Colorado Rockies","Kansas City Royals",0.6667
+"Colorado Rockies","Kansas City Royals",0.6667
+"Colorado Rockies","Los Angeles Dodgers",0.5278
+"Colorado Rockies","Los Angeles Dodgers",0.5278
+"Colorado Rockies","Miami Marlins",0.3750
+"Colorado Rockies","Milwaukee Brewers",0.6875
+"Colorado Rockies","Milwaukee Brewers",0.6875
+"Colorado Rockies","New York Mets",0.5385
+"Colorado Rockies","New York Mets",0.5385
+"Colorado Rockies","New York Yankees",0.3333
+"Colorado Rockies","New York Yankees",0.3333
+"Colorado Rockies","Oakland Athletics",0.0000
+"Colorado Rockies","Oakland Athletics",0.0000
+"Colorado Rockies","Philadelphia Phillies",0.3333
+"Colorado Rockies","Philadelphia Phillies",0.3333
+"Colorado Rockies","Pittsburgh Pirates",0.5000
+"Colorado Rockies","Pittsburgh Pirates",0.5000
+"Colorado Rockies","San Diego Padres",0.5405
+"Colorado Rockies","San Diego Padres",0.5405
+"Colorado Rockies","San Francisco Giants",0.4595
+"Colorado Rockies","San Francisco Giants",0.4595
+"Colorado Rockies","Seattle Mariners",0.0000
+"Colorado Rockies","Seattle Mariners",0.0000
+"Colorado Rockies","St. Louis Cardinals",0.5385
+"Colorado Rockies","St. Louis Cardinals",0.5385
+"Colorado Rockies","Tampa Bay Devil Rays",0.3333
+"Colorado Rockies","Tampa Bay Rays",0.3333
+"Colorado Rockies","Toronto Blue Jays",1.0000
+"Colorado Rockies","Toronto Blue Jays",1.0000
+"Colorado Rockies","Washington Nationals",0.5333
+"Colorado Rockies","Washington Nationals",0.5333
+"Detroit Tigers","Anaheim Angels",0.5500
+"Detroit Tigers","Anaheim Angels",0.5500
+"Detroit Tigers","Arizona Diamondbacks",0.6667
+"Detroit Tigers","Arizona Diamondbacks",0.6667
+"Detroit Tigers","Atlanta Braves",1.0000
+"Detroit Tigers","Atlanta Braves",1.0000
+"Detroit Tigers","Baltimore Orioles",0.5000
+"Detroit Tigers","Baltimore Orioles",0.5000
+"Detroit Tigers","Boston Red Sox",0.5882
+"Detroit Tigers","Boston Red Sox",0.5882
+"Detroit Tigers","Chicago White Sox",0.6944
+"Detroit Tigers","Chicago White Sox",0.6944
+"Detroit Tigers","Cleveland Indians",0.7500
+"Detroit Tigers","Cleveland Indians",0.7500
+"Detroit Tigers","Colorado Rockies",0.6667
+"Detroit Tigers","Colorado Rockies",0.6667
+"Detroit Tigers","Houston Astros",0.6667
+"Detroit Tigers","Houston Astros",0.6667
+"Detroit Tigers","Kansas City Royals",0.6486
+"Detroit Tigers","Kansas City Royals",0.6486
+"Detroit Tigers","Minnesota Twins",0.6216
+"Detroit Tigers","Minnesota Twins",0.6216
+"Detroit Tigers","New York Mets",0.3333
+"Detroit Tigers","New York Mets",0.3333
+"Detroit Tigers","New York Yankees",0.6364
+"Detroit Tigers","New York Yankees",0.6364
+"Detroit Tigers","Oakland Athletics",0.4706
+"Detroit Tigers","Oakland Athletics",0.4706
+"Detroit Tigers","Philadelphia Phillies",1.0000
+"Detroit Tigers","Philadelphia Phillies",1.0000
+"Detroit Tigers","Pittsburgh Pirates",0.7500
+"Detroit Tigers","Pittsburgh Pirates",0.7500
+"Detroit Tigers","San Francisco Giants",0.2000
+"Detroit Tigers","San Francisco Giants",0.2000
+"Detroit Tigers","Seattle Mariners",0.4118
+"Detroit Tigers","Seattle Mariners",0.4118
+"Detroit Tigers","St. Louis Cardinals",0.6667
+"Detroit Tigers","St. Louis Cardinals",0.6667
+"Detroit Tigers","Tampa Bay Devil Rays",0.6667
+"Detroit Tigers","Tampa Bay Rays",0.6667
+"Detroit Tigers","Texas Rangers",0.5263
+"Detroit Tigers","Texas Rangers",0.5263
+"Detroit Tigers","Toronto Blue Jays",0.6667
+"Detroit Tigers","Toronto Blue Jays",0.6667
+"Detroit Tigers","Washington Nationals",1.0000
+"Detroit Tigers","Washington Nationals",1.0000
+"Detroit Tigers","Anaheim Angels",0.5500
+"Detroit Tigers","Anaheim Angels",0.5500
+"Detroit Tigers","Arizona Diamondbacks",0.6667
+"Detroit Tigers","Arizona Diamondbacks",0.6667
+"Detroit Tigers","Atlanta Braves",1.0000
+"Detroit Tigers","Atlanta Braves",1.0000
