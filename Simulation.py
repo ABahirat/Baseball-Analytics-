@@ -198,10 +198,11 @@ def bulk_win_percentage(home_team, away_team, team_batters, team_pitchers):
                 print("AWP = " + str(row[2]))
 
         #x = np.random.normal(size = 1000)
-        plt.hist(home_score_list, bins=30)
+        plt.hist([home_score_list, away_score_list], color=['g','b'], alpha=0.8, bins=30, label=["Home Team", "Away Team"])
         plt.ylabel('Games')
         plt.xlabel("Runs Scored")
-        plt.title("Run expectancy for home team")
+        plt.title("Run Expectancy for Teams")
+        plt.legend(loc='upper right')
         plt.show()
 
 

@@ -133,6 +133,7 @@ selectAwayTeam(awayTeamCombo)
 #buttons
 def doCalculate():
     homeScoreList = []
+    awayScoreList = []
     print("=== HOME TEAM ===")
     simHomeBatters = ""
     homeBatters = []
@@ -158,6 +159,7 @@ def doCalculate():
         results = Simulation.simulate(homeBatters, awayBatters, awayPitcher.get(), homePitcher.get())
         print(results)
         homeScoreList.append(results[0])
+        awayScoreList.append(results[1])
         if results[0] > results[1]:
             homeWins += 1
         else:
@@ -165,10 +167,11 @@ def doCalculate():
     SWP = float(homeWins) / float(homeWins+awayWins)
     print(SWP)
 
-    plt.hist(homeScoreList, bins=30)
+    plt.hist([homeScoreList, awayScoreList], color=['g','b'], alpha=0.8, bins=30, label=["Home Team", "Away Team"])
     plt.ylabel('Games')
     plt.xlabel("Runs Scored")
-    plt.title("Run expectancy for home team")
+    plt.title("Run Expectancy for Teams")
+    plt.legend(loc='upper right')
     plt.show()
 
 def doExit():
