@@ -3,6 +3,9 @@
 
 Robert Ballard and Ameya Bahirat
 
+## Demo Note
+SWP statistic information is displayed in terminal window and not in GUI. 
+
 ## How-To: 
 Clone Repo
 Install following dependencies: tKinter, CSV, Matplotlib, Numpy for python 3
