@@ -1,7 +1,18 @@
 # Baseball-Analytics-
-
-
 Robert Ballard and Ameya Bahirat
+
+## Contents
+1.1 Explanation of statistic: README.md, what you're reading right now!
+
+1.2 Demonstration, 1.3 Evaluation of statistic: frontend.py and Simulation.py, see how-to to run
+
+1.4 Presentation: SWP_demo.mov
+
+Data stored in batting.csv, pitching.csv, and teams.csv
+
+Comparison data stored in teams_RR.csv and teams_WP.csv
+
+Data generation code in 2016data.sql
 
 ## Demo Note
 SWP statistic information is displayed in terminal window and not in GUI. 
@@ -21,11 +32,8 @@ SWP is a useful stat because it seeks to answer a question most stats fail to: v
 
 In order to generate SWP, we will be taking into consideration only the statistics for the batter and the pitcher. This is done primarily to simplify the complexity involved in predicting the outcome of a baseball game. A much more comprehensive (and perhaps more accurate) might take into account all players, weather conditions and other information, but due to the time constraints of this project we will be ignoring these. The way the simulation will take place involves finding the probability of a hit or no hit based on the stats of the batter and the stats of the pitcher, and then finding the probability of the event that precedes it. To calculate whether a hit occurred or not, a “true” batting average is calculated taking into account the statistics of the pitcher. The batting average (BA) will be considered as the probability of a hit, while 1-BA will be considered as the probability of a non-hit. The pitcher statistic we use will be multiplied by the batting average, giving us the true batting average of the player. This means that pitchers with better stats will make the batting average (probability of a hit) of the batter lower, while lower than average pitchers will make the batting average higher. To calculate what event precedes a hit, the batters statistics over all games is taken into account. A percentage is generated for each event, and one is randomly chosen using the percentages as weights. There is some difficulty in finding pitcher statistics that could provide a fair measure into calculating whether a hit was made or not, also since information about ball speed and type of throw are not given in the Lahman database, there is some limitation with regards to finding what makes a pitcher good. 
 
-
-## Final Update
-
 The statistical measure that was used to evaluate the true batting average of players was Difference from Average Strikeout Probability (DASP). This is a calculated by taking a pitchers strikeouts divided by the batters faced by pitcher. This value is average for all pitchers for the league and for each pitcher, we take the difference between their strikeout probability and the average strikeout probability. A constant multiplier of 0.5 was added to this calculation to provide us with a reasonable number of runs in each game while running the simulation. 
 
-When running the program. The user will have the option to simulation one game (with a team of pre-defined players) 100 times, and will be provided with a win expectancy of the home team. This is done by hitting the “calculate” button. The “calculate bulk WP” button will generate a random set of batters and pitchers for each team selected and simulate 100 games, each with a random sets of pitchers and batters. It will provide the user with the simulated win percentage, alongside the actual win percentage extracted from the Lahman database. Both buttons provide the user with graphs of the run expectancy for the home team. 
+When running the program, the user will have the option to simulate one game (with a team of pre-defined players) 100 times, and will be provided with a win expectancy of the home team. This is done by hitting the “calculate” button. The “calculate bulk WP” button will generate a random set of batters and pitchers for each team selected and simulate 100 games, each with a random sets of pitchers and batters. It will provide the user with the simulated win percentage, alongside the actual win percentage extracted from the Lahman database. Both buttons provide the user with graphs of the run expectancy for the home team. 
 
 Generally we found our statistic to be accurate, any discrepancies to real world data might be caused by retrosheet providing us with win-loss data for multiple years. Another reason for some lack of correlation between the data might be caused from our statistic not taking into account ground outs.
